@@ -1,9 +1,12 @@
-# About me: Susan Westfall, Ph.D.
+# About me: 
+## Susan Westfall, Ph.D.
 
 
 <img src="pics/susan.jpg" alt="susan-photo" style="float:left;width:350px;height:200px;margin: 5px 50px;">
 
-### How to connect
+<br><br><br><br><br><br><br><br><br><br> 
+
+## How to connect
 - [LinkedIn](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
 <!-- - [Twitter](http://twitter.com/vikrantt){target=_blank} -->
 - [Semantic Scholar](https://www.semanticscholar.org/author/Susan-Westfall/49749982){target=_blank}
@@ -13,6 +16,7 @@
 
 ## Profile Summary
 - I am a ctd...
+    - dada 
     - But sometimes I am a penguin
     - Truthfully, I am a ctd in the shape of a penguin
 - PhD in stuff. 
@@ -20,7 +24,7 @@
 
 ## More details
 
-Well yeas, I founded [Fluent.ai](http://www.fluent.ai){target=_blank} and grew it, in my role as Founder and CTO, from zero to a well-known provider of speech recognition systemss. At Fluent.ai, we developed cutting-edge machine learning techniques for offline, on-device voice user interfaces targetted at tinyML, low-power embedded devices, smart-home devices, and wearables. We used a unique end-to-end spoken language understanding system. Unlike conventional speech recognition systems [speech --> text --> intent], these models do not require the intermediate text step and are able able to directly go from speech to intent, much like humans. Please see [the website](http://www.fluent.ai){target=_blank} for more details.
+ [Fluent.ai](http://www.fluent.ai){target=_blank} and grew it, in my role as Founder and CTO, from zero to a well-known provider of speech recognition systemss. At Fluent.ai, we developed cutting-edge machine learning techniques for offline, on-device voice user interfaces targetted at tinyML, low-power embedded devices, smart-home devices, and wearables. We used a unique end-to-end spoken language understanding system. Unlike conventional speech recognition systems [speech --> text --> intent], these models do not require the intermediate text step and are able able to directly go from speech to intent, much like humans. Please see [the website](http://www.fluent.ai){target=_blank} for more details.
 
  
 
@@ -58,7 +62,7 @@ I am collaborating with three other researchers to organize **[End to End Spoken
 - [JNTT TATA Scholar](http://www.dorabjitatatrust.org/id/72/J.N.%20Tata%20Endowment%20for%20the%20Higher%20Education%20of%20Indians/){target=_blank}, 2009
 - [International Speech Communication Association Conference Grant](http://www.isca-speech.org/iscaweb/index.php/grants){target=_blank}, 2008
 
-== Reviews etc.
+## Reviews etc.
 - IEEE Transactions on Image Processing
 - IEEE/ACM Transactions on Audio, Speech, and Language Processing
 - IEEE Signal Processing Letters

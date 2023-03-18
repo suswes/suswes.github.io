@@ -18,7 +18,7 @@ Vikrant Singh Tomar, McGill University, "[Discriminative Manifold Learning for A
 
 ## Publications
 
-- Farzaneh S Fard and *Vikrant Singh Tomar*, "[Expediting discovery in Neural Architecture Search by Combining Learning with Planning](https://ieeexplore.ieee.org/abstract/document/9413547){target=_blank}", ICASSP 2021
+- Farzaneh S Fard and **Vikrant Singh Tomar**, "[Expediting discovery in Neural Architecture Search by Combining Learning with Planning](https://ieeexplore.ieee.org/abstract/document/9413547){target=_blank}", ICASSP 2021
 
 - Mohamed Mhiri, Sam Myer, *Vikrant Tomar*, "[A low latency ASR-free end to end spoken language understanding system](https://arxiv.org/pdf/2011.04884.pdf){target=_blank}", Interspeech 2020
 
