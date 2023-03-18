@@ -4,8 +4,6 @@
 
 <img src="pics/susan.jpg" alt="susan-photo" style="float:left;width:350px;height:200px;margin: 5px 50px;">
 
-<br><br><br><br><br><br><br><br><br><br> 
-
 ## How to connect
 - [LinkedIn](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
 <!-- - [Twitter](http://twitter.com/vikrantt){target=_blank} -->
