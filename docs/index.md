@@ -20,7 +20,7 @@
 
 ## More details
 
-I founded [Fluent.ai](http://www.fluent.ai){target=_blank} and grew it, in my role as Founder and CTO, from zero to a well-known provider of speech recognition systemss. At Fluent.ai, we developed cutting-edge machine learning techniques for offline, on-device voice user interfaces targetted at tinyML, low-power embedded devices, smart-home devices, and wearables. We used a unique end-to-end spoken language understanding system. Unlike conventional speech recognition systems [speech --> text --> intent], these models do not require the intermediate text step and are able able to directly go from speech to intent, much like humans. Please see [the website](http://www.fluent.ai){target=_blank} for more details.
+Well yeas, I founded [Fluent.ai](http://www.fluent.ai){target=_blank} and grew it, in my role as Founder and CTO, from zero to a well-known provider of speech recognition systemss. At Fluent.ai, we developed cutting-edge machine learning techniques for offline, on-device voice user interfaces targetted at tinyML, low-power embedded devices, smart-home devices, and wearables. We used a unique end-to-end spoken language understanding system. Unlike conventional speech recognition systems [speech --> text --> intent], these models do not require the intermediate text step and are able able to directly go from speech to intent, much like humans. Please see [the website](http://www.fluent.ai){target=_blank} for more details.
 
  
 
