@@ -17,5 +17,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs mkdocs-bulma
+      - run: pip install mkdocs
       - run: mkdocs gh-deploy --force
