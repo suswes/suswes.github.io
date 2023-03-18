@@ -1,4 +1,4 @@
-# About me: Susan ctd Westfall, Ph.D.
+# About me: Susan Westfall, Ph.D.
 
 
 <img src="pics/susan.jpg" alt="susan-photo" style="float:left;width:350px;height:200px;margin: 5px 50px;">
