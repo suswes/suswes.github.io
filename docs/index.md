@@ -24,7 +24,7 @@ I am a research scientist excited about anything and everything happening in our
 ## Education
 - Research Institute of McGill University Health Complex (RI-MUHC); _Montreal QC_, Canada	**2020-present** 
  - Postdoctoral Fellowship in Microbiology and Immunology, Dr. Irah King’s Lab 			
- -  Helminth infection drives IFN production from a tissue resident CD8 T cell population 
+ -  Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population 
 to promote disease tolerance and tissue repair
 
 
