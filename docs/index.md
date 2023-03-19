@@ -13,12 +13,7 @@
 <br>
 
 ## Profile Summary
-- I am a ctd...
-    - dada 
-    - But sometimes I am a penguin
-    - Truthfully, I am a ctd in the shape of a penguin
-- PhD in stuff. 
-- Active research in other stuff
+I am a research scientist excited about anything and everything happening in our gut. For 15 years I've navigated through 9 departments in 3 countries exploring questions ranging from nutraceutical metabolomics to gut-brain-axis communication to host-parasite interactions. My scientific roadtrip, although winding, is rooted in fundamental questions on how the environment communicates with our body. This awe-inspiring task motivates my career choice in science to contribute a piece to the evolving understanding of what makes the human body thrive despite constant environmental challenges. In my opinion, the foundation of our body’s tolerance to the environment resides in how the gut microbiota interacts with our intestinal immune system. 
 
 ## More details
 
