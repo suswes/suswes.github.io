@@ -15,17 +15,19 @@
 ## Profile Summary
 I am a research scientist excited about anything and everything happening in our gut. For 15 years I've navigated through 9 departments in 3 countries exploring questions ranging from nutraceutical metabolomics to gut-brain-axis communication to host-parasite interactions. My scientific roadtrip, although winding, is rooted in fundamental questions on how the environment communicates with our body. This awe-inspiring task motivates my career choice in science to contribute a piece to the evolving understanding of what makes the human body thrive despite constant environmental challenges. In my opinion, the foundation of our body’s tolerance to the environment resides in how the gut microbiota interacts with our intestinal immune system. 
 
-## More details
+## Research Interests
+ - Host-Microbiota Interactions
+ - Intestinal Mucosal Immunology
+ - Gut-Brain-Axis
 
- [Fluent.ai](http://www.fluent.ai){target=_blank} and grew it, in my role as Founder and CTO, from zero to a well-known provider of speech recognition systemss. At Fluent.ai, we developed cutting-edge machine learning techniques for offline, on-device voice user interfaces targetted at tinyML, low-power embedded devices, smart-home devices, and wearables. We used a unique end-to-end spoken language understanding system. Unlike conventional speech recognition systems [speech --> text --> intent], these models do not require the intermediate text step and are able able to directly go from speech to intent, much like humans. Please see [the website](http://www.fluent.ai){target=_blank} for more details.
-
- 
 
 ## Education
-- Ph.D., Electrical and Computer Engineering, focused on Deep Learning and Speech Recognition [McGill University](http://www.mcgill.ca){target=_blank}, Montreal, Canada,
-  2015
-- B.Tech.,
-[Dhirubhai Ambani Institute of Information and Communication Technology [DA-IICT]](http://www.daiict.ac.in){target=_blank}, Gandhinagar, Gujarat, India, May 2008
+- Research Institute of McGill University Health Complex (RI-MUHC); _Montreal QC_, Canada	**2020-present** 
+ - Postdoctoral Fellowship in Microbiology and Immunology, Dr. Irah King’s Lab 			
+ -  Helminth infection drives IFN production from a tissue resident CD8 T cell population 
+to promote disease tolerance and tissue repair
+
+
 
 
 ## Work Experience Summary
