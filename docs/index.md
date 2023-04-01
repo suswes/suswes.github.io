@@ -2,7 +2,7 @@
 ## Susan Westfall, Ph.D.
 
 
-<img src="pics/susan.jpg" alt="susan-photo" style="float:left;width:350px;height:200px;margin: 5px 50px;">
+<img src="pics/susan.jpg" alt="susan-photo" style="float:left;width:200px;height:270px;margin: 5px 50px;">
 
 ## How to connect
 - [LinkedIn](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
@@ -22,53 +22,58 @@ I am a research scientist excited about anything and everything happening in our
 
 
 ## Education
-- Research Institute of McGill University Health Complex (RI-MUHC); _Montreal QC_, Canada	**2020-present** 
- - Postdoctoral Fellowship in Microbiology and Immunology, Dr. Irah King’s Lab 			
- -  Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population 
-to promote disease tolerance and tissue repair
+- **Post Doctoral Fellowship**: _Montreal QC_ Canada	| **2020-present** 
+  - Research Institute of McGill University Health Complex (RI-MUHC)
+  - Department of Microbiology and Immunology | Dr. Irah King’s Lab 			
+  - Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population to promote disease tolerance and tissue repair
+
+- **Post Doctoral Fellowship**: _New York NY_ USA	| **2018-2020** 
+  - Icahn School of Medicine at Mount Sinai 
+  - Department of Neurology | Dr. Giulio Pasinetti Lab 			
+  - Probiotics and prebiotics prevent depression- and anxiety-like behaviors by altering peripheral Treg and Th17 immune cell populations in an AHR-dependent manner
+
+- **Ph.D. Graduate Studies**: _Montreal QC_ Canada	| **2015-2018** 
+  - McGill University
+  - Department of Biomedical Engineering | Dr. Satya Prakash 			
+  - Development of a Novel Probiotic and Synbiotic Formulation for the Management of Neurodegenerative and Other Diseases 
+
+- **MS.C. Graduate Studies**: _Montreal QC_ Canada	| **2009-2012** 
+  - McGill University
+  - Department of Neuroscience | Dr. Nicolas Cermakian 			
+  - The Time-Mediated Effects of Turpentine on Fever, Cytokine Induction and Peripheral Clock Gene Expression
+
+- **BS.C. Honours**: _Montreal QC_ Canada	| **2005-2009** 
+  - McGill University
+  - Department of Biochemistry | Dr. Thomas Duchaine 			
+  - Characterization of the Helicase Domain within RNAi Machinery
 
 
+## Work & Research Experience Summary
+ - **Teaching Assistant**: _Montreal QC_ Canada	| **2016**
+   - Department of Biomedical Engineering	| McGill University
+   - Course: BMED505: Artificial Cells
+
+ - **Research Assistant**: _Varanasi_ India	| **2013 – 2014**   
+   - Department of Biochemistry	| Banaras Hindu University
+   - Exploring immunological and behavioral benefits of nutraceuticals for Parkinson’s disease. 
+
+ - **Research Assistant**: _Montreal QC_ Canada | **2012-2013**
+   - McGill University & Genome Quebec Innovation Centre
+   - Determination of epigenetic modifications in clinical sampes using high-throughput, Next-Generation sequencing technologies for MethylC-Seq, ChIP-Seq and RNA-Seq
+
+ - **Teaching Assistant and Grader**: _Montreal QC_ Canada | **2011-2012**
+   - Department of Biochemistry | McGill University
+   - Bioc300D2: Laboratory in Biochemistry                                                                                      	
+     
+ - **Undergraduate Researcher** _Montreal QC_ Canada  | **2007**
+   - Department of Biomedical Engineering | McGill University
+   - iGEM: International Genetically Engineered Machines Competition | MIT
+   - Group research leader for iGEM. We strove to engineer a robust quorum sensor in bacteria and to mathematically model this stochastic system for execution in Mathematica. 
 
 
-## Work Experience Summary
-- Vestec Inc., Waterloo, ON, Canada | Research Scientist Consultant | May 2012 -- Dec 2012
-- McGill University, Montreal, QC, Canada | Teaching Assistant and Lecturer | 2010 - 2013 [various]
-- IIT Bombay, Mumbai India | Research Scholar | July 2008 - Dec 2010
-
-## Research Interests
-- General Artificial Intelligence
-- Reinforcement Learning
-- Speech and language processing including acoustic modeling, NLU, etc.
-- Machine learning for speech synthesis, deepfakes and other generative models
-*Please refer to my recent [publications](./publications.html) for more details about my current area of work.*
-
-### End to End SLU special session at ICASSP 2020
-
-I am collaborating with three other researchers to organize **[End to End Spoken Language Understanding](https://sites.google.com/fluent.ai/icassp2020slu){target=_blank}** workshop at ICASSP 2020. Please see the link for more information.  
+## Awards
 
 
-
-## Awards and Grants (from student life era)
-- J. W. McConnell Memorial Fellowship, McGill University, 2012
-- [McGill Engineering Doctoral Award](http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meda){target=_blank}, 2011 - 2013
-- [Joseph S. Stauffer Fellowship](http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meda/named-fellowships/stauffer){target=_blank}, McGill University, 2011
-- [Sheryl & David Kerr Engineering Graduate Fellowship](http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meda/named-fellowships/kerr){target=_blank}, McGill University, 2011
-- [McGill Engineering International Doctoral Award](http://www.mcgill.ca/engineering/current-students/graduate-students/funding/meita){target=_blank}, 2011 - 2013
-- [JNTT TATA Scholar](http://www.dorabjitatatrust.org/id/72/J.N.%20Tata%20Endowment%20for%20the%20Higher%20Education%20of%20Indians/){target=_blank}, 2009
-- [International Speech Communication Association Conference Grant](http://www.isca-speech.org/iscaweb/index.php/grants){target=_blank}, 2008
-
-## Reviews etc.
-- IEEE Transactions on Image Processing
-- IEEE/ACM Transactions on Audio, Speech, and Language Processing
-- IEEE Signal Processing Letters
-- ISCA Interspeech Conferences
-- IEEE ICASSP Conferences
-- IEEE Symposium on Industrial Electronics and Applications
-- Elsevier Neurocomputing Journal
-- Elsevier Speech Communications Journal
-- MDPI Mathematical and Computational Applications
-- MDPI Entropy
-- MDPI Computers
-- MDPI Applied Sciences
+## Other Activities
 
  
