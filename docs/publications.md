@@ -1,17 +1,18 @@
 # Publications
 
-- Pubmed "(https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}".
+- [Pubmed] (https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}
+
 
 ## Patents
 - Westfall S, Prakash, S. (Feb 13, 2018) Probiotic Formulations for the treatment and alleviation of metabolic and oxidative stress, inflammation and neurodegeneration. USA Provisional Patent. Serial No. 16969759.
 
 ## Book Chapter
- - Westfall S, Pratap S. (2016) The Ayurvedic Treatment of Neurodegenerative Diseases. Holistic Approaches to Infectious Diseases. Apple Academic Press. ON, Canada. P1-54. (Book Chapter)
+ - **Westfall S**, Pratap S. (**2016**) The Ayurvedic Treatment of Neurodegenerative Diseases. Holistic Approaches to Infectious Diseases. Apple Academic Press. ON, Canada. P1-54. (Book Chapter)
 
 ## Theses
- - Ph.D. Susan Westfall, McGill University, **2018**. "[Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases] (https://escholarship.mcgill.ca/concern/theses/1z40kw22q?locale=en){target=_blank}".
+ - Ph.D. Susan Westfall, McGill University, **2018**. [Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases](https://escholarship.mcgill.ca/concern/theses/1z40kw22q?locale=en){target=_blank}.
 
- - MS.c. Susan Westfall, McGill University, **2012**. "The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression (https://escholarship.mcgill.ca/concern/theses/p8418s33g?locale=en){target=_blank}".
+ - MS.c. Susan Westfall, McGill University, **2012**. [The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression](https://escholarship.mcgill.ca/concern/theses/p8418s33g?locale=en){target=_blank}.
  
 
 ## Highlighted Publications
