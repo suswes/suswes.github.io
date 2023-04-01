@@ -71,9 +71,55 @@ I am a research scientist excited about anything and everything happening in our
    - Group research leader for iGEM. We strove to engineer a robust quorum sensor in bacteria and to mathematically model this stochastic system for execution in Mathematica. 
 
 
-## Awards
+## Fellowships
+ - CIHR Postdoctoral Fellowship | $45,000 annually | Section Rank: top 2.7%  | **2021-2025**
+ - American Association of Immunology (AAI) Salary Fellowship | $75,000 (Awarded) | **2021**
+ - McLaughlin Postdoctoral Fellowship, Dept. Medicine, McGill | $25,000 | **2021**
+ - Excellence Award, Dept. Biomedical Engineering, McGill University | $5000 annually | **2017-2018**
+ - Max Binz Award, Dept. of Medicine, McGill University | $12,000 annually | **2017-2018**
+ - NSERC CGS Ph.D. Fellowship | $35,000 annually | **2014-2017**
+ - FRSQ Master’s Fellowship | $17,500 annually | 2009-2012
+ - Summer NSERC Undergraduate Research Studentship Award | $5625 | **2008**
+ - J.W. McConnell Scholarship, McGill (internal) | $3000 annually | 2005-2009
+
+
+## Honours & Awards
+ - Travel Award Society for Mucosal Immunology (SMI), ICMI. Seattle, USA | $1000USD | **2022**
+ - 1st Poster Prize, Woods Hole Immunoparasitology Meeting, WHIP. Mass. USA | $500USD | **2021**
+ - Journal Top 100 Reads (Rank 26) in Scientific Reports (Longevity Extension in Drosophila) | **2019**
+ - 1st Poster Prize at Probiota international conference. Amsterdam, NL. | **2016**
+ - Invited Talk for Seminar Series in Dept. Immunology, McGill University | **2015**
+ - 1st Oral Prize at Natural Health and Product Research International Conference | $250	| **2015**
+ - Shastri Indo-Canadian Institute Travel Grant, international competition | $1000 | **2014**
+ - 1st Poster Prize, International Congress on Holistic Medicine Conference, Kerala, India | **2013**
+ - Graduate Program of Neuroscience Entrance Scholarship | $10,000 | **2009**                                                            
+ - Further 1st Place Awards International & Domestic: 13 awarded | **2007-2011**
 
 
 ## Other Activities
+ - **Teaching Experience**
+   - Intermediate Immunology, MIMM314, Guest Lecturer | **Feb 2023**
+   - Mentor, INDS123, Research Fundamentals for Medical Students | **2022-2023**
+   - Honors Immunology, MIMM501/502, Guest Lecturer | **2021-2022**
+
+ - **Editorial Experience**
+   - Member of CIHR Review Committee for Doctoral Students | **2023**
+   - Co-editor Frontiers in Immunology Special Research Topic | **2022-present**
+   - Co-editor to Frontiers in Immunology Editorial Board | **2022-present**
+
+ - **Student Supervision**
+   - Undergraduates (6): L. Saraffin, S. Cleff, F. Grafton, S. Sorrini, C. Shum-Tim & M. Syssoeva
+   - MSc & PhD candidates (3): Umar Iqbal, Leila Faradel, Gabriel Barragan
+   - Research Associates (1): Francesca Caracci
+
+ - **Invited Judge**
+   - Conference Poster judge at Annual Montreal Parasitology Symposium | **2022**
+   - RI-MIHC Graduate Research Day judge of poster/oral presentations | **2022**
+
+ - **Industrial Experience**
+   - Vice President Proviva Pharma Inc.: Montreal QC, Canada. (part-time) | **2015-2019**
+   - spin-off created with my PhD supervisor to sell probiotic and prebiotic formulations internationally
+
+
 
  
