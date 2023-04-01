@@ -1,77 +1,49 @@
 # Publications
 
-- [Semantic Scholar](https://www.semanticscholar.org/author/Vikrant-Singh-Tomar/3315248){target=_blank}
+- Pubmed "(https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}".
 
-!!! note
-    Please note that some of the published papers may be copyrighted by the respective publishing organizations, such as IEEE, Elsevier, and Wiley etc. as cited. You are advised to contact the publishing organization for final versions of the papers.
-    
 ## Patents
-- Granted US10878807B2: "System and method for implementing a vocal user interface by combining a speech to text system and a speech to intent system". [Also granted in Europe]
-- Granted US11049495B2: "Method and device for automatically learning relevance of words in a speech recognition system"
-- Approved for grant US20210056958A1: "System and method for tone recognition in spoken languages"
-- Approved for grant US20210055778A1: "A low-power keyword spotting system"
-- Application WO2021030918A1: "User-defined keyword spotting"
-- Application WO2021226709A1: "Neural architecture search with imitation learning"
+- Westfall S, Prakash, S. (Feb 13, 2018) Probiotic Formulations for the treatment and alleviation of metabolic and oxidative stress, inflammation and neurodegeneration. USA Provisional Patent. Serial No. 16969759.
 
-## Ph.D. Thesis
-Vikrant Singh Tomar, McGill University, "[Discriminative Manifold Learning for Automatic Speech Recognition](../pubs/Vikrant_PhD_Thesis.pdf){target=_blank}".
+## Book Chapter
+ - Westfall S, Pratap S. (2016) The Ayurvedic Treatment of Neurodegenerative Diseases. Holistic Approaches to Infectious Diseases. Apple Academic Press. ON, Canada. P1-54. (Book Chapter)
 
-## Publications
+## Theses
+ - Ph.D. Susan Westfall, McGill University, **2018**. "[Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases] (https://escholarship.mcgill.ca/concern/theses/1z40kw22q?locale=en){target=_blank}".
 
-- Farzaneh S Fard and **Vikrant Singh Tomar**, "[Expediting discovery in Neural Architecture Search by Combining Learning with Planning](https://ieeexplore.ieee.org/abstract/document/9413547){target=_blank}", ICASSP 2021
-
-- Mohamed Mhiri, Sam Myer, *Vikrant Tomar*, "[A low latency ASR-free end to end spoken language understanding system](https://arxiv.org/pdf/2011.04884.pdf){target=_blank}", Interspeech 2020
-
-- Hanwook Chung, *Vikrant Tomar* and Benoit Champagne, "[Deep convolutional neural network-based inverse filtering approach for speech de-reverberation](https://arxiv.org/pdf/2010.07895.pdf){target=_blank}", 2020 IEEE 30th International Workshop on Machine Learning for Signal Processing (MLSP){target=_blank}
-
-- Farzaneh S Fard, Arash Rad, *Vikrant Singh Tomar*, "[Nasil: Neural Architecture Search with Imitation Learning](https://www.researchgate.net/profile/Farzaneh_Sheikhnezhad_Fard/publication/341083699_Nasil_Neural_Architecture_Search_with_Imitation_Learning/links/5eb421e492851cbf7fae68cd/Nasil-Neural-Architecture-Search-with-Imitation-Learning.pdf){target=_blank}", IEEE ICASSP 2020
-
-- Loren Lugosch, Mirco Ravanelli, Patrick Ignoto, *Vikrant Singh Tomar*, Yoshua Bengio, "[Speech Model Pre-training for End-to-End Spoken Language Understanding](https://arxiv.org/abs/1904.03670){target=_blank}", Interspeech 2019
-
-- Loren Lugosch, Sam Myer and *Vikrant Singh Tomar*, "[DONUT: CTC-based Query-by-Example Keyword Spotting](https://arxiv.org/pdf/1811.10736.pdf){target=_blank}", NeurIPS 2018 Interpretability and Robustness for Audio, Speech and Language Workshop
-
-- Loren Lugosch and *Vikrant Singh Tomar*, "[Tone recognition using lifters and CTC](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/2293.pdf){target=_blank}", InterSpeech 2018
-
-- Sam Myer and *Vikrant Singh Tomar*, "[Efficient keyword spotting using time delay neural networks](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1979.pdf){target=_blank}", InterSpeech 2018
-
-- Vincent Renkens, *Vikrant Singh Tomar* and Hugo Van Hamme, "[Incrementally learn the relevance of words in a dictionary for spoken language acquisition](../pubs/2016_SLT_Renkens.pdf){target=_blank}", IEEE Spoken Language Technology 2016
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[Graph based manifold regularized deep neural networks for automatic speech recognition](../pubs/arxiv_1606.05925v1_MRDNN.pdf){target=_blank}", arXiv:1606.05925, 2016 [Code on Github](https://github.com/vikrantt/MRDNN-Py){target=_blank}
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[Manifold Regularized Deep Neural Networks](../pubs/Interspeech2014-MRDNN.pdf){target=_blank}", InterSpeech 2014, Singapore. [Code on Github](https://github.com/vikrantt/MRDNN-Py){target=_blank}
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[A family of discriminative manifold learning algorithms and their application to speech recognition](../pubs/TASLP-Tomar-Rose2014.pdf){target=_blank}", IEEE\/ACM Transactions on Audio, Speech and Language Processing, vol. 22, no. 1, Jan 2014.
-DOI: 10.1109/TASLP.2013.2286906
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[Locality Sensitive Hashing for Fast Computation of Correlational Manifold Learning based Feature space Transformations](../pubs/Interspeech2013-CPDA-LSH.pdf){target=_blank}", InterSpeech 2013, Lyon, France
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[Efficient manifold learning for speech Recognition using locality sensitive hashing](../pubs/ICASSP2013-LPDA-LSH.pdf){target=_blank}", ICASSP 2013, Vancouver, Canada
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[Noise aware manifold learning for robust speech recognition](../pubs/ICASSP2013-NLPDA.pdf){target=_blank}", ICASSP 2013, Vancouver, Canada.
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[A Correlational Discriminant Approach to Feature Extraction for Robust Speech Recognition](../pubs/Interspeech12-CPDA.pdf){target=_blank}", InterSpeech 2012, Portland, Oregon, USA
-
-- *Vikrant Singh Tomar* and Richard C. Rose, "[Application of a Locality Preserving Discriminant Analysis Approach to ASR](../pubs/ISSPA12-LPDA.pdf){target=_blank}",The 11th International Conference on Information Sciences, Signal Processing and their Applications (ISSPA){target=_blank} 2012, Montreal, QC, Canada. [Download presentation .pdf](../pubs/ISSPA12-presentation.pdf){target=_blank}
-
-- *Vikrant Tomar* and H. A. Patil, "[On the Development of Variable length Teager Energy Operator (VTEO){target=_blank}](../pubs/interspeech08.pdf){target=_blank}", Interspeech 2008, Brisbane, Australia, pp.1056 - 1059
-
-- H. Venkataraman, D. Gandhi, and *Vikrant Tomar*," [Multi-hop Multi-band Intelligent Relay-Based Architecture for LTE-Advanced Multi-hop Wireless Cellular Networks](../pubs/2013Journal_MMSP_LTE.pdf){target=_blank}", Springer Wireless Personal Communications, 2013.
-DOI 10.1007/s11277-013-1352-0
-
-- *Vikrant Tomar*, H. Asnani, A. Karandikar, and P. Kapadia, "[Traffic Analysis of a Short Message Service Network](../pubs/NCC2010-SMS_TrafficEngg.pdf){target=_blank}", IEEE NCC 2010
-
-- *Vikrant Tomar*, H. Asnani, A. Karandikar, V. Chander, S. Agrawal, and P. Kapadia, "[Social Network Analysis of the Short Message Service](../pubs/NCC2010-SMS_SocialNet.pdf){target=_blank}", IEEE NCC 2010 , 29-31 Jan. 2010
-DOI: 10.1109/NCC.2010.5430162
-
-- *Vikrant Tomar*, D. Gandhi and C. Vijaykumar, "[Digital Signal Processing for Gene Prediction](../pubs/tencon08.pdf){target=_blank}", TENCON 2008 - 23rd IEEE Region 10 Conference, 19-21 Nov. 2008, Hydrabad, India, 2008.
-DOI: 10.1109/TENCON.2008.4766648
-
-
-## Other Publications/Reports
-- *Vikrant Singh Tomar*, "[Speaker Variability in Automatic Speech Recognition](../pubs/reports/Speaker_Variability_ASR.pdf){target=_blank}"
-
-- *Vikrant Singh Tomar*, "[Blind Dereverberation using Maximum Kurtosis of the Speech Residual](../pubs/reports/reverb_kurtosis_report.pdf){target=_blank}" [download presentation .pdf](../pubs/reports/reverb_kurtosis_ppt.pdf){target=_blank}
-
-- *Vikrant Singh Tomar*, "[Discriminant Feature Space Transformations for Automatic Speech Recognition](../pubs/reports/ML_report.pdf){target=_blank}" [download presentation .pdf](../pubs/reports/ML_ppt.pdf ){target=_blank}
-
+ - MS.c. Susan Westfall, McGill University, **2012**. "The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression (https://escholarship.mcgill.ca/concern/theses/p8418s33g?locale=en){target=_blank}".
  
+
+## Highlighted Publications
+ - Karo-Atar D, Ouladan S, Javkar T, Joumier L, Matheson M, Merritt S, **Westfall S**, Rochette A, Gentile M, Fontes G, Fonseca G, Parisien M, Diatchenko L, von Molke J, Malleshaiah M, Gregorieff A, King I. (2022) Helminth-induced reprogramming of the stem cell compartment inhibits type 2 immunity. J Exp Med. 219(9):e20212311.
+ - **Westfall S**, Caracci F, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Optimization of Probiotic Therapeutics using Machine Learning in an Artificial Human Gastrointestinal Tract. Nat Sci Rep. Jan 13;11(1):1067. 
+ - **Westfall S**, Caracci F, Frolinger T, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Microbiota metabolites modulate the T helper 17 to regulatory T cell (Th17/Treg) imbalance promoting resilience to stress-induced anxiety- and depressive-like behaviors. Brain, Behavior, Immun. Jan;91:350-368. 
+ - **Westfall S**, Caracci F, Frolinger T, Pasinetti G. Optimization of Probiotic Therapeutics Chronic Stress-Induced Depression and Anxiety Priming Modulated by Gut-Brain-Axis Immunity. (2021) Front Immunol. Jun 24;12:6760500. 
+ - Westfall S, Lomis N, Prakash, S. (2019) A novel synbiotic delays Alzheimer’s disease onset via combinatorial gut-brain-axis signaling in Drosophila melanogaster. PloS one 14(4):e0214985.
+ - **Westfall S**, Lomis N, Prakash S. (2018) Longevity extension in Drosophila melanogaster through gut-brain-axis communication: examining a novel probiotic and synbiotic formulation. Nat Sci Rep. 8(10):8362.
+ - **Westfall S**, Lomis N, Kahouli I, Dia SY, Prakash S. (2017) Microbiome, probiotics and neurodegenerative diseases: deciphering the gut brain axis. Cellular and Molecular Life Sciences. 74(14):online
+
+## Remaining Publications
+ - **Westfall S**, Dinh D, Pasinetti G. (2020) Investigation of Potential Brain Microbiome in Alzheimer’s Disease: Implications of Study Bias. J Alz Dis. (DOI: 10.3233/JAD-191328)
+ - Westfall S & Pasinetti G. (2019) The Gut Microbiota Links Dietary Polyphenols with Management of Psychiatric Mood Disorders. Front Neurosci. 13:1196. doi: 10.3389/fnins.2019.01196
+ - **Westfall S**, Iqbal U, Sebastian M, Pasinetti G. (2019) Gut microbiota mediated allostasis prevents stress-induced neuroinflammatory risk factors of Alzheimer’s disease. Prog Mol Biol Transl Sci. 168:147-181
+ - **Westfall S**, Lomis N, Prakash S. (2019) Ferulic acid provides by Lactobacillus fermentum Influences Developmental Growth through a dTOR-dependent Mechanism. Mol Biotechnol. 61(1):1-11. 
+ - Ho L, Zhao D, Ono K, Ruan K, Mogno I... **Westfall S**, Pasinetti G. (2019) Heterogeneity in gut microbiota drive polyphenol metabolism that influences α-synuclein misfolding and toxicity. J Nutr Biochem 15(64):170-181.
+ - **Westfall S**, Lomis N, Prakash S. (2018) The combinatorial effect of a polyphenolic prebiotic with a novel probiotic formulation on genetic markers of metabolic stress in Drosophila melanogaster dietary models of diabetes and obesity. J Functional Foods. 48:468.
+ - **Westfall S**, Lomis N, Prakash S. (2018) A novel polyphenolic prebiotic and probiotic formulation have synergistic effects on the gut microbiota influencing Drosophila melanogaster physiology. Artif Cells, Nanomed Biotech. 12:1-15.
+ - **Westfall S**, Lomis N, Singh SP, Prakash S. (2019) Ferulic acid produced by Lactobacillus fermentum influences developmental growth through a dTOR mediated mechanism. Mol Biotechnol. 61(1):1-11
+ - Pasinetti GM, Singh R, **Westfall S**, Herman F, Faith J, Ho L. (2018) The Role of the Gut Microbiota in the Metabolism of Polyphenols as Characterized by Gnotobiotic Mice. J Alzheimers Dis. 63(2):409-421.
+ - Iqbal U, **Westfall S**, Faradhel L, Prakash S. (2018) A Novel Probiotic Blend for Potential Use in Metabolic Syndrome: Design and In-Vitro Characterizations. Artif Cells, Nanomed Biotech. LABB-2018-0447.
+ - Lomis N, Gaudreault F, Malhotra M, **Westfall S**, Shum-Tim D, Prakash S. (2017) Novel Milrinone Nanoformulation for Use in Cardiovascular Diseases: Preparation and in Vitro Characterization. Mol Pharmaceutics 15(7):2489-2502.
+ - Prasad C, Iqbal U, **Westfall S**, Prakash S. (2017) Management of Hyperuricemia and Gout by Prebiotics and Probiotics: Potentials and Limitations. Intl J Probiotics and Prebiotics. 12(1): 5-16.
+ - Kahouli I, Malhotra M, **Westfall S**, Alaoui-Jamali MA, Prakash S. (2017) Design of an orally administered active L. fermentum-L. acidophilus probiotic formulation using colorectal cancer ApcMin/+mouse model. Appl. Microbiol. Biotechnol. 101(5):1999-2019.
+ - **Westfall S**, Lomis N, Singh SP, Prakash S. (2016) Ferulic acid produced by Lactobacillus fermentum NCIMB 5221 reduces symptoms of metabolic syndrome in Drosophila melanogaster. J. Microbial Biochem. Tech. 8(4):272-284.
+ - Lomis N, **Westfall S**, Farahdel L, Malhotra M, Shum-Tim D, Prakash, S. (2016) Serum Albumin Nanoparticles for Use in Cancer Drug Delivery: Process Optimization and In Vitro Characterization. Nanomaterials. 6(116):1-17
+ - **Westfall S**, Lomis N, Dai SY, Singh SP, Prakash S. (2015) The gut microflora and its metabolites regulate the molecular crosstalk between diabetes and neurodegeneration. J. Diabetes & Metabolism. 6(8):577.
+ - Busche S, Shao W, Caron M, Kwan T, Allum F, Cheung WA, Ge B, **Westfall S**, Simon MM, Multiple Tissue Human Expression Resource, Barrett A, Bell JT, McCarthy MI, Deloukas P, Blanchette M, Courque G, Spector TD, Lathrop M, Pastinen T, Frundberg E. (2015) Population whole-genome bisulfite sequencing across two tissues highlights the environment as the principal source of human methylome variation. Genome Biol. 23:290. doi:10.1186/s13059-015-0856-1.
+ - Chouhan S, Yadav S, Prakash J, **Westfall S**., Ghosh A, Agarwal NK, Singh S. (2015) Increase in the expression of inducible nitric oxide synthase on exposure to Bisphenol A: A possible cause for decline in steroidogenesis in male mice. Environ Toxicol Pharmacol. 39(1):405-416.
+ - Cermakian C, **Westfall S**, Kiessling S. (2014) Circadian clocks and inflammation: reciprocal regulation and shared mediators. Arch Immunol Ther Exp. 62(4):303-318.
+ - Prakash J, Yadav S, Chouhan S, **Westfall S**, Singh SP. (2014) Withania somnifera alleviates Parkinsonian phenotypes by inhibiting apoptotic pathways in Dopaminergic neurons. Neurochem Res. 39(12):2527-2536.
+ - Yadav S, Prakash J, Chouhan S, **Westfall S**, Verma M, Singh TD, Singh SP. (2014) Comparison of the neuroprotective potential of Mucuna pruriens seed extract with estrogen in 1-methyl-4-phenyl-1,2,3,6,-tetrahydropyridine (MPTP)-induced PD mice model. Neurochem. Int. 65:1-13.
+ - Yadav S, **Westfall S**, Prakash J, Chouhan S, Singh S (2013) The Mechanisms of Estrogen’s Neuroprotective Action in Parkinson’s Disease. Mol Cell Neurobiol. 65:1-13. 
+ - **Westfall S**, Aguilar-Valles A., Mongrain V., Luheshi GN., Cermakian, N. (2013) Time-dependent effects of localized inflammation on peripheral clock gene expression. PLoS One: 8(3): e59808
