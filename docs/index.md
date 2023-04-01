@@ -98,26 +98,26 @@ I am a research scientist excited about anything and everything happening in our
 
 
 ## Other Activities
- - **Teaching Experience**
+**Teaching Experience**
    - Intermediate Immunology, MIMM314, Guest Lecturer | **Feb 2023**
    - Mentor, INDS123, Research Fundamentals for Medical Students | **2022-2023**
    - Honors Immunology, MIMM501/502, Guest Lecturer | **2021-2022**
 
- - **Editorial Experience**
+**Editorial Experience**
    - Member of CIHR Review Committee for Doctoral Students | **2023**
    - Co-editor Frontiers in Immunology Special Research Topic | **2022-present**
    - Co-editor to Frontiers in Immunology Editorial Board | **2022-present**
 
- - **Student Supervision**
+**Student Supervision**
    - Undergraduates (6): L. Saraffin, S. Cleff, F. Grafton, S. Sorrini, C. Shum-Tim & M. Syssoeva
    - MSc & PhD candidates (3): Umar Iqbal, Leila Faradel, Gabriel Barragan
    - Research Associates (1): Francesca Caracci
 
- - **Invited Judge**
+**Invited Judge**
    - Conference Poster judge at Annual Montreal Parasitology Symposium | **2022**
    - RI-MIHC Graduate Research Day judge of poster/oral presentations | **2022**
 
- - **Industrial Experience**
+**Industrial Experience**
    - Vice President Proviva Pharma Inc.: Montreal QC, Canada. (part-time) | **2015-2019**
    - spin-off created with my PhD supervisor to sell probiotic and prebiotic formulations internationally
 
