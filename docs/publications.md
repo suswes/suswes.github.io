@@ -1,6 +1,6 @@
 # Publications
 
-- [Pubmed] (https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}
+- [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}
 
 
 ## Patents
