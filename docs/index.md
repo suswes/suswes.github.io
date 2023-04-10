@@ -5,9 +5,9 @@
 <img src="pics/susan.jpg" alt="susan-photo" style="float:left;width:200px;height:270px;margin: 5px 50px;">
 
 ## How to connect
-- [LinkedIn](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
+- [Linkedin](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
 - [Twitter](https://twitter.com/WestfallSusan){target=_blank}
-- [Semantic Scholar](https://www.semanticscholar.org/author/Susan-Westfall/49749982){target=_blank}
+<!-- - [Semantic Scholar](https://www.semanticscholar.org/author/Susan-Westfall/49749982){target=_blank} -->
 - [Google Scholar](https://scholar.google.com/citations?user=EOFG8hQAAAAJ&hl=en){target=_blank}
 
 <br>
@@ -24,53 +24,52 @@ I am a research scientist excited about anything and everything happening in our
 
 ## Education
 **Post Doctoral Fellowship**: _Montreal QC_ Canada	| **2020-present**
-
 - Research Institute of McGill University Health Complex (RI-MUHC)
 - Department of Microbiology and Immunology | Dr. Irah King’s Lab 			
 - Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population to promote disease tolerance and tissue repair
 
 **Post Doctoral Fellowship**: _New York NY_ USA	| **2018-2020** 
-  - Icahn School of Medicine at Mount Sinai 
-  - Department of Neurology | Dr. Giulio Pasinetti Lab 			
-  - Probiotics and prebiotics prevent depression- and anxiety-like behaviors by altering peripheral Treg and Th17 immune cell populations in an AHR-dependent manner
+- Icahn School of Medicine at Mount Sinai 
+- Department of Neurology | Dr. Giulio Pasinetti Lab 			
+- Probiotics and prebiotics prevent depression- and anxiety-like behaviors by altering peripheral Treg and Th17 immune cell populations in an AHR-dependent manner
 
 **Ph.D. Graduate Studies**: _Montreal QC_ Canada	| **2015-2018** 
-  - McGill University
-  - Department of Biomedical Engineering | Dr. Satya Prakash 			
-  - Development of a Novel Probiotic and Synbiotic Formulation for the Management of Neurodegenerative and Other Diseases 
+- McGill University
+- Department of Biomedical Engineering | Dr. Satya Prakash 			
+- Development of a Novel Probiotic and Synbiotic Formulation for the Management of Neurodegenerative and Other Diseases 
 
 **MS.C. Graduate Studies**: _Montreal QC_ Canada	| **2009-2012** 
-  - McGill University
-  - Department of Neuroscience | Dr. Nicolas Cermakian 			
-  - The Time-Mediated Effects of Turpentine on Fever, Cytokine Induction and Peripheral Clock Gene Expression
+- McGill University
+- Department of Neuroscience | Dr. Nicolas Cermakian 			
+- The Time-Mediated Effects of Turpentine on Fever, Cytokine Induction and Peripheral Clock Gene Expression
 
 **BS.C. Honours**: _Montreal QC_ Canada	| **2005-2009** 
-  - McGill University
-  - Department of Biochemistry | Dr. Thomas Duchaine 			
-  - Characterization of the Helicase Domain within RNAi Machinery
+- McGill University
+- Department of Biochemistry | Dr. Thomas Duchaine 			
+- Characterization of the Helicase Domain within RNAi Machinery
 
 
 ## Work & Research Experience Summary
 **Teaching Assistant**: _Montreal QC_ Canada	| **2016**
-   - Department of Biomedical Engineering	| McGill University
-   - Course: BMED505: Artificial Cells
+- Department of Biomedical Engineering	| McGill University
+- Course: BMED505: Artificial Cells
 
 **Research Assistant**: _Varanasi_ India	| **2013 – 2014**   
-   - Department of Biochemistry	| Banaras Hindu University
-   - Exploring immunological and behavioral benefits of nutraceuticals for Parkinson’s disease. 
+- Department of Biochemistry	| Banaras Hindu University
+- Exploring immunological and behavioral benefits of nutraceuticals for Parkinson’s disease. 
 
 **Research Assistant**: _Montreal QC_ Canada | **2012-2013**
-   - McGill University & Genome Quebec Innovation Centre
-   - Determination of epigenetic modifications in clinical sampes using high-throughput, Next-Generation sequencing technologies for MethylC-Seq, ChIP-Seq and RNA-Seq
+- McGill University & Genome Quebec Innovation Centre
+- Determination of epigenetic modifications in clinical sampes using high-throughput, Next-Generation sequencing technologies for MethylC-Seq, ChIP-Seq and RNA-Seq
 
 **Teaching Assistant and Grader**: _Montreal QC_ Canada | **2011-2012**
-   - Department of Biochemistry | McGill University
-   - Bioc300D2: Laboratory in Biochemistry                                                                                      	
+- Department of Biochemistry | McGill University
+- Bioc300D2: Laboratory in Biochemistry                                                                                      	
      
 **Undergraduate Researcher** _Montreal QC_ Canada  | **2007**
-   - Department of Biomedical Engineering | McGill University
-   - iGEM: International Genetically Engineered Machines Competition | MIT
-   - Group research leader for iGEM. We strove to engineer a robust quorum sensor in bacteria and to mathematically model this stochastic system for execution in Mathematica. 
+- Department of Biomedical Engineering | McGill University
+- iGEM: International Genetically Engineered Machines Competition | MIT
+- Group research leader for iGEM. We strove to engineer a robust quorum sensor in bacteria and to mathematically model this stochastic system for execution in Mathematica. 
 
 
 ## Fellowships
@@ -100,27 +99,27 @@ I am a research scientist excited about anything and everything happening in our
 
 ## Other Activities
 **Teaching Experience**
- - Intermediate Immunology, MIMM314, Guest Lecturer | **Feb 2023**
- - Mentor, INDS123, Research Fundamentals for Medical Students | **2022-2023**
- - Honors Immunology, MIMM501/502, Guest Lecturer | **2021-2022**
+- Intermediate Immunology, MIMM314, Guest Lecturer | **Feb 2023**
+- Mentor, INDS123, Research Fundamentals for Medical Students | **2022-2023**
+- Honors Immunology, MIMM501/502, Guest Lecturer | **2021-2022**
 
 **Editorial Experience**
- - Member of CIHR Review Committee for Doctoral Students | **2023**
- - Co-editor Frontiers in Immunology Special Research Topic | **2022-present**
- - Co-editor to Frontiers in Immunology Editorial Board | **2022-present**
+- Member of CIHR Review Committee for Doctoral Students | **2023**
+- Co-editor Frontiers in Immunology Special Research Topic | **2022-present**
+- Co-editor to Frontiers in Immunology Editorial Board | **2022-present**
 
 **Student Supervision**
- - Undergraduates (6): L. Saraffin, S. Cleff, F. Grafton, S. Sorrini, C. Shum-Tim & M. Syssoeva
- - MSc & PhD candidates (3): Umar Iqbal, Leila Faradel, Gabriel Barragan
- - Research Associates (1): Francesca Caracci
+- Undergraduates (6): L. Saraffin, S. Cleff, F. Grafton, S. Sorrini, C. Shum-Tim & M. Syssoeva
+- MSc & PhD candidates (3): Umar Iqbal, Leila Faradel, Gabriel Barragan
+- Research Associates (1): Francesca Caracci
 
 **Invited Judge**
- - Conference Poster judge at Annual Montreal Parasitology Symposium | **2022**
- - RI-MIHC Graduate Research Day judge of poster/oral presentations | **2022**
+- Conference Poster judge at Annual Montreal Parasitology Symposium | **2022**
+- RI-MIHC Graduate Research Day judge of poster/oral presentations | **2022**
 
 **Industrial Experience**
- - Vice President Proviva Pharma Inc.: Montreal QC, Canada. (part-time) | **2015-2019**
-   - spin-off created with my PhD supervisor to sell probiotic and prebiotic formulations internationally
+- Vice President Proviva Pharma Inc.: Montreal QC, Canada. (part-time) | **2015-2019**
+- Spin-off created with my PhD supervisor to sell probiotic and prebiotic formulations internationally
 
 
 
