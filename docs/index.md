@@ -24,9 +24,9 @@ I am a research scientist excited about anything and everything happening in our
 
 ## Education
 **Post Doctoral Fellowship**: _Montreal QC_ Canada	| **2020-present** 
-  - Research Institute of McGill University Health Complex (RI-MUHC)
-  - Department of Microbiology and Immunology | Dr. Irah King’s Lab 			
-  - Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population to promote disease tolerance and tissue repair
+- Research Institute of McGill University Health Complex (RI-MUHC)
+- Department of Microbiology and Immunology | Dr. Irah King’s Lab 			
+- Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population to promote disease tolerance and tissue repair
 
 **Post Doctoral Fellowship**: _New York NY_ USA	| **2018-2020** 
   - Icahn School of Medicine at Mount Sinai 
