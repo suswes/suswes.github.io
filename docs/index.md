@@ -7,9 +7,9 @@
 ## How to connect
 - [Linkedin](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
 - [Twitter](https://twitter.com/WestfallSusan){target=_blank}
-<!-- - [Semantic Scholar](https://www.semanticscholar.org/author/Susan-Westfall/49749982){target=_blank} -->
+- [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}
 - [Google Scholar](https://scholar.google.com/citations?user=EOFG8hQAAAAJ&hl=en){target=_blank}
-
+<!-- - [Semantic Scholar](https://www.semanticscholar.org/author/Susan-Westfall/49749982){target=_blank} -->
 <br>
 
 
