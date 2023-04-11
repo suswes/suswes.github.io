@@ -22,7 +22,6 @@ I am a research scientist excited about anything and everything happening in our
  - Intestinal Mucosal Immunology
  - Gut-Brain-Axis
 
----
 ## Education
 ### Post Doctoral Fellowship	| 2020 - present
 #### Research Institute of McGill University Health Complex (RI-MUHC), _Montreal, QC,_ Canada
@@ -49,10 +48,7 @@ I am a research scientist excited about anything and everything happening in our
 - Department of Biochemistry | Dr. Thomas Duchaine 			
 - Characterization of the Helicase Domain within RNAi Machinery
 
-
----
 ## Work & Research Experiences
-
 ### McGill University,  _Montreal, QC,_ Canada	
 #### Teaching Assistant | 2016
 - Department of Biomedical Engineering
@@ -76,7 +72,6 @@ I am a research scientist excited about anything and everything happening in our
 - iGEM: International Genetically Engineered Machines Competition | MIT
 - Group research leader for iGEM. We strove to engineer a robust quorum sensor in bacteria and to mathematically model this stochastic system for execution in Mathematica. 
 
----
 ## Fellowships
  - CIHR Postdoctoral Fellowship | $45,000 annually | Section Rank: top 2.7%  | 2021-2025
  - American Association of Immunology (AAI) Salary Fellowship | $75,000 (Awarded) | 2021
@@ -88,7 +83,6 @@ I am a research scientist excited about anything and everything happening in our
  - Summer NSERC Undergraduate Research Studentship Award | $5625 | 2008
  - J.W. McConnell Scholarship, McGill (internal) | $3000 annually | 2005-2009
 
----
 ## Honours & Awards
  - Travel Award Society for Mucosal Immunology (SMI), ICMI. Seattle, USA | $1000USD | 2022
  - 1st Poster Prize, Woods Hole Immunoparasitology Meeting, WHIP. Mass. USA | $500USD | 2021
@@ -101,7 +95,6 @@ I am a research scientist excited about anything and everything happening in our
  - Graduate Program of Neuroscience Entrance Scholarship | $10,000 | 2009                                                            
  - Further 1st Place Awards International & Domestic: 13 awarded | 2007-2011
 
----
 ## Other Activities
 #### Teaching Experience
 - Intermediate Immunology, MIMM314, Guest Lecturer | Feb 2023
