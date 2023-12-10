@@ -15,38 +15,39 @@
 
 
 ## Profile Summary
-I am a research scientist excited about anything and everything happening in our gut. For 15 years I've navigated through 9 departments in 3 countries exploring questions ranging from nutraceutical metabolomics to gut-brain-axis communication to host-parasite interactions. My scientific roadtrip, although winding, is rooted in fundamental questions on how the environment communicates with our body. This awe-inspiring task motivates my career choice in science to contribute a piece to the evolving understanding of what makes the human body thrive despite constant environmental challenges. In my opinion, the foundation of our body’s tolerance to the environment resides in how the gut microbiota interacts with our intestinal immune system. 
+I am a research scientist excited about anything and everything happening in our gut. For 15 years I've navigated through 9 departments in 3 countries exploring questions about barrier immunity, host-parasite interactions, the gut-brain-axis and the gut microbiota. My scientific roadtrip, although winding, is rooted in fundamental questions about how the environment communicates with our body. In my opinion, the essence of our body’s tolerance to the environment resides in multi-compartment communication between the immune system, stromal backbone and the gut microbiota. I look forward to establishing a research platform that will detangle this crosstalk to facilitate the development of multi-facted therapies against gastrointestinal disorders. 
 
 ## Research Interests
- - Host-Microbiota Interactions
  - Intestinal Mucosal Immunology
+ - The Gut Microbiota
+ - Host-Parasite Interactions
  - Gut-Brain-Axis
 
 ## Education
 ### Post Doctoral Fellowship	| 2020 - present
 #### Research Institute of McGill University Health Complex (RI-MUHC), _Montreal, QC,_ Canada
 - Department of Microbiology and Immunology | Dr. Irah King’s Lab 			
-- Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population to promote disease tolerance and tissue repair
+- Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population to promote disease tolerance and tissue repair through an immune-stromal axis
 
 ### Post Doctoral Fellowship | 2018 - 2020 
 #### Icahn School of Medicine at Mount Sinai, _New York, NY,_ USA	
-- Department of Neurology | Dr. Giulio Pasinetti Lab 			
+- Department of Neurology | Dr. Giulio Pasinetti's Lab 			
 - Probiotics and prebiotics prevent depression- and anxiety-like behaviors by altering peripheral Treg and Th17 immune cell populations in an AHR-dependent manner
 
 ### Ph.D. | 2015 - 2018 
 #### McGill University,  _Montreal, QC,_ Canada	
-- Department of Biomedical Engineering | Dr. Satya Prakash 			
-- Development of a Novel Probiotic and Synbiotic Formulation for the Management of Neurodegenerative and Other Diseases 
+- Department of Biomedical Engineering | Dr. Satya Prakash's Lab 			
+- Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases 
 
 ### M.Sc.	| 2009 - 2012 
 #### McGill University,  _Montreal, QC,_ Canada	
 - Department of Neuroscience | Dr. Nicolas Cermakian 			
-- The Time-Mediated Effects of Turpentine on Fever, Cytokine Induction and Peripheral Clock Gene Expression
+- The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression
 
 ### B.Sc. (Honours)	| 2005 - 2009 
 #### McGill University,  _Montreal, QC,_ Canada	
 - Department of Biochemistry | Dr. Thomas Duchaine 			
-- Characterization of the Helicase Domain within RNAi Machinery
+- Characterization of the helicase domain within RNAi machinery
 
 ## Work & Research Experiences
 ### McGill University,  _Montreal, QC,_ Canada	
@@ -84,11 +85,16 @@ I am a research scientist excited about anything and everything happening in our
  - J.W. McConnell Scholarship, McGill (internal) | $3000 annually | 2005-2009
 
 ## Honours & Awards
+ - 1st Prize for Oral Presentation at Canadian Parasitology Network (CPN) & AMPS Symposium, Montreal, QC | $250 | 2023
+ - 1st Prize for Oral Presentation at Canadian Society of Immunology (CSI), Orford, QC  | $250 | 2023
+ - Travel Award for Canadian Society of Immunology (CSI), Orford, QC  | $500 | 2023
+ - Invitation & Full Scholarship to Cytokines (ICIS) Conference, Athens, Greece | 2023
+ - Invitation & Full Scholarship to American Society of Tropical Medicine and Hygiene (ASTHMH), Chicago, USA | 2023
+ - 1st Prize & Excellence Award for Oral Presentation Woods Hole Immunoparasitology (WHIP) Conference | 2023
  - Travel Award Society for Mucosal Immunology (SMI), ICMI. Seattle, USA | $1000USD | 2022
  - 1st Poster Prize, Woods Hole Immunoparasitology Meeting, WHIP. Mass. USA | $500USD | 2021
  - Journal Top 100 Reads (Rank 26) in Scientific Reports (Longevity Extension in Drosophila) | 2019
  - 1st Poster Prize at Probiota international conference. Amsterdam, NL. | 2016
- - Invited Talk for Seminar Series in Dept. Immunology, McGill University | 2015
  - 1st Oral Prize at Natural Health and Product Research International Conference | $250	| 2015
  - Shastri Indo-Canadian Institute Travel Grant, international competition | $1000 | 2014
  - 1st Poster Prize, International Congress on Holistic Medicine Conference, Kerala, India | 2013
@@ -97,23 +103,32 @@ I am a research scientist excited about anything and everything happening in our
 
 ## Other Activities
 #### Teaching Experience
-- Intermediate Immunology, MIMM314, Guest Lecturer | Feb 2023
+- Honors Immunology, MIMM501/502, Guest Lecturer | 2023-2024
+- Intermediate Immunology, MIMM314, Guest Lecturer | 2023
 - Mentor, INDS123, Research Fundamentals for Medical Students | 2022-2023
-- Honors Immunology, MIMM501/502, Guest Lecturer | 2021-2022
+- Honors Immunology, MIMM501/502, Guest Lecturer | 2022-2023
+- Invited Talk for Seminar Series in Dept. Immunology, McGill University | 2015
+
 
 #### Editorial Experience
-- Member of CIHR Review Committee for Doctoral Students | 2023
+- Member of CIHR Review Committee for Doctoral Students | 2023 & 2024
 - Co-editor Frontiers in Immunology Special Research Topic | 2022-present
 - Co-editor to Frontiers in Immunology Editorial Board | 2022-present
 
 #### Student Supervision
+- Honors Students (1): Giordano Mandato
 - Undergraduates (6): L. Saraffin, S. Cleff, F. Grafton, S. Sorrini, C. Shum-Tim & M. Syssoeva
 - MSc & PhD candidates (3): Umar Iqbal, Leila Faradel, Gabriel Barragan
 - Research Associates (1): Francesca Caracci
 
 #### Invited Judge
-- Conference Poster judge at Annual Montreal Parasitology Symposium | 2022
-- RI-MIHC Graduate Research Day judge of poster/oral presentations | 2022
+ - Student Research Day (RI MUHC) Poster Judge | 2023
+ - Conference Poster Judge at Canadian Society of Immunology (CSI) | 2023
+ - Conference Poster Judge at Canadian Parasitology Network (CPN)/AMPS | 2023
+ - Student Poster judge at McGill Immunology Graduate Research Day | 2023
+ - Conference Poster judge at International Conference of Mucosal Immunology (ICMI) | 2022
+ - Conference Poster judge at Annual Montreal Parasitology Symposium (AMPS) | 2022
+ - RI-MIHC Graduate Research Day judge of poster/oral presentations | 2022
 
 #### Industrial Experience
 - Vice President Proviva Pharma Inc.: Montreal QC, Canada. (part-time) | 2015-2019
