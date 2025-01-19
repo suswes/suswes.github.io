@@ -16,6 +16,9 @@
  
 
 ## Highlighted Publications
+ - **Westfall S**, Gentile M, Olsen T, Karo-Atar D, …. King I. A type 1 immune-stromal cell network mediates disease tolerance and barrier protection against intestinal infection. Cell. (Under revision – CELL-D-24-01181). 
+Available on BioRxiv: doi: https://doi.org/10.1101/2024.09.04.611190
+ - Cai W, **Westfall S**, Haddad M, Haddad R, Kesten I, Hoffman T, Laan R, Wong C, Brown N, Tansley S, Lister K, Mooshmandi M, Wang F, Lorenzo L, Sharif B,  Sahar T, Clayton C, Wu N, Zhang J, Bar-Yoseph H, Pitashny M, Mogil J, Prager-Khoutorsky M, Séguéla P, King I, De Koninck Y, Brereton N, Gonzalez E, Shir Y, Khoutorsky A, Minerbi A. Gut microbiota promotes pain in fibromyalgia. Neuron. (Under revision - EMID:a64f3bb0f657b1c8)
  - Karo-Atar D, Ouladan S, Javkar T, Joumier L, Matheson M, Merritt S, **Westfall S**, Rochette A, Gentile M, Fontes G, Fonseca G, Parisien M, Diatchenko L, von Molke J, Malleshaiah M, Gregorieff A, King I. (2022) Helminth-induced reprogramming of the stem cell compartment inhibits type 2 immunity. J Exp Med. 219(9):e20212311.
  - **Westfall S**, Caracci F, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Optimization of Probiotic Therapeutics using Machine Learning in an Artificial Human Gastrointestinal Tract. Nat Sci Rep. Jan 13;11(1):1067. 
  - **Westfall S**, Caracci F, Frolinger T, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Microbiota metabolites modulate the T helper 17 to regulatory T cell (Th17/Treg) imbalance promoting resilience to stress-induced anxiety- and depressive-like behaviors. Brain, Behavior, Immun. Jan;91:350-368. 
@@ -25,6 +28,7 @@
  - **Westfall S**, Lomis N, Kahouli I, Dia SY, Prakash S. (2017) Microbiome, probiotics and neurodegenerative diseases: deciphering the gut brain axis. Cellular and Molecular Life Sciences. 74(14):online
 
 ## Remaining Publications
+ - Pei J, Oliveira N, Recinto S, Kazanova A, Queiroz-Junior C, Li Z, Coutu K, **Westfall S**, King I, Ribeiro C, Afanasiev E, Milnerwood A, Desjardin M, Thanabalasuriar A, Stratton J, Gruenheid S. (2025) LRRK2 G2019S mutation incited icnreased cell-intrinsic neutrophil effector functions and intestinal inflammation in a model of infectious colitis. Nat Parkinson Dis. Submission ID: fe9a3944-045a-4b3d-aec9-c68ee91fcad8
  - **Westfall S**, Dinh D, Pasinetti G. (2020) Investigation of Potential Brain Microbiome in Alzheimer’s Disease: Implications of Study Bias. J Alz Dis. (DOI: 10.3233/JAD-191328)
  - Westfall S & Pasinetti G. (2019) The Gut Microbiota Links Dietary Polyphenols with Management of Psychiatric Mood Disorders. Front Neurosci. 13:1196. doi: 10.3389/fnins.2019.01196
  - **Westfall S**, Iqbal U, Sebastian M, Pasinetti G. (2019) Gut microbiota mediated allostasis prevents stress-induced neuroinflammatory risk factors of Alzheimer’s disease. Prog Mol Biol Transl Sci. 168:147-181
