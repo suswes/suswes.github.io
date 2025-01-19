@@ -15,11 +15,11 @@
 
 
 ## Profile Summary
-I am a research scientist excited about anything and everything happening in our gut. For 15 years I've navigated through 9 departments in 3 countries exploring questions about barrier immunity, host-parasite interactions, the gut-brain-axis and the gut microbiota. My scientific roadtrip, although winding, is rooted in fundamental questions about how the environment communicates with our body. In my opinion, the essence of our body’s tolerance to the environment resides in multi-compartment communication between the immune system, stromal backbone and the gut microbiota. I look forward to establishing a research platform that will detangle this crosstalk to facilitate the development of multi-facted therapies against gastrointestinal disorders. 
+I am a research scientist excited about anything and everything happening in our gut. For 15 years I've navigated through 9 departments in 3 countries exploring questions about mucosal immunology, host-parasite interactions, the gut-brain-axis and the gut microbiota. My scientific roadtrip, although winding, is rooted in fundamental questions about how the environment communicates with our body. In my opinion, the essence of our body’s tolerance to the environment resides in multi-compartment communication between the immune system, stromal backbone and the gut microbiota. I look forward to establishing a research platform that will detangle this crosstalk to facilitate the development of multi-facted therapies against gastrointestinal disorders. 
 
 ## Research Interests
- - Intestinal Mucosal Immunology
- - The Gut Microbiota
+ - Mucosal Immunology
+ - Gut Microbiota
  - Host-Parasite Interactions
  - Gut-Brain-Axis
 
@@ -41,12 +41,12 @@ I am a research scientist excited about anything and everything happening in our
 
 ### M.Sc.	| 2009 - 2012 
 #### McGill University,  _Montreal, QC,_ Canada	
-- Department of Neuroscience | Dr. Nicolas Cermakian 			
+- Department of Neuroscience | Dr. Nicolas Cermakian's Lab 			
 - The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression
 
 ### B.Sc. (Honours)	| 2005 - 2009 
 #### McGill University,  _Montreal, QC,_ Canada	
-- Department of Biochemistry | Dr. Thomas Duchaine 			
+- Department of Biochemistry | Dr. Thomas Duchaine's Lab 			
 - Characterization of the helicase domain within RNAi machinery
 
 ## Work & Research Experiences
@@ -68,13 +68,14 @@ I am a research scientist excited about anything and everything happening in our
 #### Teaching Assistant and Grader  | 2011 - 2012
 - Department of Biochemistry 
 - Bioc300D2: Laboratory in Biochemistry                                                                                      	
+
 #### Undergraduate Researcher | 2007
 - Department of Biomedical Engineering 
 - iGEM: International Genetically Engineered Machines Competition | MIT
 - Group research leader for iGEM. We strove to engineer a robust quorum sensor in bacteria and to mathematically model this stochastic system for execution in Mathematica. 
 
 ## Fellowships
- - CIHR Postdoctoral Fellowship | $45,000 annually | Section Rank: top 2.7%  | 2021-2025
+ - CIHR Postdoctoral Fellowship | $70,000 annually | Section Rank: top 2.7%  | 2021-2025
  - American Association of Immunology (AAI) Salary Fellowship | $75,000 (Awarded) | 2021
  - McLaughlin Postdoctoral Fellowship, Dept. Medicine, McGill | $25,000 | 2021
  - Excellence Award, Dept. Biomedical Engineering, McGill University | $5000 annually | 2017-2018
@@ -85,6 +86,10 @@ I am a research scientist excited about anything and everything happening in our
  - J.W. McConnell Scholarship, McGill (internal) | $3000 annually | 2005-2009
 
 ## Honours & Awards
+ - Invited speaker, International Union of Immunological Sciences (IUIS) meeting, Vienna, Austria	| 2025
+ - Oral presentation award, Montreal Immunology Meeting (MIM), Montreal, CA. | $500 | 2024
+ - 2nd Oral Prize at Woods Hole Immunoparasitology Meeting, WHIP. Mass. USA. | $200 | 2024
+ - Travel Award Society for Mucosal Immunology (SMI), ICMI. Copenhagen, DK. | $1000 | 2024
  - 1st Prize for Oral Presentation at Canadian Parasitology Network (CPN) & AMPS Symposium, Montreal, QC | $250 | 2023
  - 1st Prize for Oral Presentation at Canadian Society of Immunology (CSI), Orford, QC  | $250 | 2023
  - Travel Award for Canadian Society of Immunology (CSI), Orford, QC  | $500 | 2023
@@ -103,15 +108,14 @@ I am a research scientist excited about anything and everything happening in our
 
 ## Other Activities
 #### Teaching Experience
-- Honors Immunology, MIMM501/502, Guest Lecturer | 2023-2024
-- Intermediate Immunology, MIMM314, Guest Lecturer | 2023
+- Honors Immunology, MIMM501/502, Guest Lecturer | 2023-2025
+- Intermediate Immunology, MIMM314, Guest Lecturer | 2023-2025
 - Mentor, INDS123, Research Fundamentals for Medical Students | 2022-2023
-- Honors Immunology, MIMM501/502, Guest Lecturer | 2022-2023
 - Invited Talk for Seminar Series in Dept. Immunology, McGill University | 2015
 
 
 #### Editorial Experience
-- Member of CIHR Review Committee for Doctoral Students | 2023 & 2024
+- Member of CIHR Review Committee for Doctoral Students | 2023-2025
 - Co-editor Frontiers in Immunology Special Research Topic | 2022-present
 - Co-editor to Frontiers in Immunology Editorial Board | 2022-present
 
@@ -122,9 +126,10 @@ I am a research scientist excited about anything and everything happening in our
 - Research Associates (1): Francesca Caracci
 
 #### Invited Judge
+ - Society of Mucosal Immunology (ICMI Biannual Meeting) Poster Judge | 2024
+ - Conference Poster Judge at Canadian Parasitology Network (CPN)/AMPS | 2023-2024
  - Student Research Day (RI MUHC) Poster Judge | 2023
  - Conference Poster Judge at Canadian Society of Immunology (CSI) | 2023
- - Conference Poster Judge at Canadian Parasitology Network (CPN)/AMPS | 2023
  - Student Poster judge at McGill Immunology Graduate Research Day | 2023
  - Conference Poster judge at International Conference of Mucosal Immunology (ICMI) | 2022
  - Conference Poster judge at Annual Montreal Parasitology Symposium (AMPS) | 2022
