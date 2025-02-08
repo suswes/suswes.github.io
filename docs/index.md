@@ -11,7 +11,7 @@
 - [Google Scholar](https://scholar.google.com/citations?user=EOFG8hQAAAAJ&hl=en){target=_blank}
 
 
-
+<br>
 
 ## Profile Summary
 I am a mucosal immunologist fascinated by host-environmental interactions. Intestinal architecture provides a unique landscape to understand how multiple tissue compartments, both host and bacterial, must coordinate their response to damage and invasion to establish homeostasis and promote health. Dysbiosis, damage and disease disrupt this delicate balance resulting in inflammatory bowel diseases (IBD), cancer and small intestinal dysmotility. My current research shows that our body’s environmental tolerance resides in multi-compartmental communication between the immune system, stromal backbone and the gut microbiota. I study tissue microenvironments with both functional and unbiased approaches in order to unravel targetable pathways that can inform therapeutic development.
@@ -28,7 +28,8 @@ I look forward to establishing an independent research platform that will detang
 ### Postdoctoral Research Fellow	| 2020 - present
 #### Research Institute of McGill University Health Complex (RI-MUHC), _Montreal, QC,_ Canada
 **_Department of Microbiology and Immunology | Dr. Irah King’s Lab_**			
-- Created and led a research project defining a novel role of type 1 immunity during intestinal damage
+ - Created and led a research project defining a novel role of type 1 immunity during intestinal damage
+- 
 - Discovered that IFN𝛾 bridges an immune-stromal cell axis to prevent tissue damage and reduce mortality in mice subjected to infection in a gut-microbiota dependent manner.
 - Technical expertise in flow cytometry, bone marrow chimeras, adoptive transfer, genetic mouse models, primary cell cultures, intestinal organoids and stem cells, confocal imaging and in situ hybridization
 - Led several collaborative multiparametric imaging and clinical immunophenotyping studies
