@@ -1,0 +1,656 @@
+
+<!doctype html>
+<html>
+    <head>
+        <!--
+    Kilsbergen MkDocs theme copyright 2019 Ruud van Asseldonk.
+    Licensed under the Apache 2.0 license.
+    See https://github.com/ruuda/kilsbergen.
+  -->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>
+            About me — Susan Westfall
+        </title>
+        <!-- Out of the options of rsms.me + Google Fonts, self-hosting, and only
+    Google Fonts, the latter is by far the fastest when the docs themselves are
+    not on a CDN, even though it's two additional domains to connect to. -->
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@0;1&display=swap"
+            rel="stylesheet"
+        />
+        <link href="None" rel="canonical" />
+        <style>
+            /* Inter font family, copyright Rasmus Andersson, licensed under SIL OFL 1.1,
+     see https://rsms.me/inter and https://rsms.me/inter/inter.css. */
+            @font-face {
+                font-family: "Inter";
+                font-style: normal;
+                font-weight: 100 900;
+                font-display: swap;
+                src: url("https://rsms.me/inter/font-files/Inter-roman.var.woff2?v=3.19")
+                    format("woff2");
+                font-named-instance: "Regular";
+            }
+            @font-face {
+                font-family: "Inter";
+                font-style: italic;
+                font-weight: 100 900;
+                font-display: swap;
+                src: url("https://rsms.me/inter/font-files/Inter-italic.var.woff2?v=3.19")
+                    format("woff2");
+                font-named-instance: "Italic";
+            }
+            /* Modular scale with exponent 1.7^(1/3). The 1.7 was chosen as the line hight
+     that goes well with Inter. Previously I used 1.59, but it was just too tight.
+     0.59em
+     0.70em
+     1.00em
+     1.19em
+     1.42em
+     1.70em
+     2.02em
+     2.42em
+  */
+            * {
+                margin: 0;
+                padding: 0;
+                border-spacing: 0;
+            }
+            html {
+                font-family: Inter, Roboto, sans-serif;
+                /*
+    Turn on character variant 8 for Inter, which puts serifs on the uppercase I.
+    Also turn on variant 1, which has a curved 1.
+    Disable contextual alternates for now. There is a bug, either in Inter or
+    in Chrome (https://crbug.com/1046095) that causes colons after a <strong> to
+    be raised above the baseline.
+    */
+                font-feature-settings:
+                    "cv01" 1,
+                    "cv08" 1,
+                    "calt" 0;
+
+                font-size: 16px;
+                line-height: 1.7em;
+                background-color: #fff;
+                height: 100%;
+            }
+            em {
+                font-style: italic;
+            }
+            body {
+                height: 100%;
+            }
+            #content {
+                display: grid;
+                grid-template-columns: auto 6rem 60rem auto;
+                color: #333;
+                min-height: 100%;
+            }
+            #main {
+                grid-area: 1 / 3 / 2 / 4;
+                padding: 2.2rem;
+                padding-left: 4rem;
+                padding-right: 4rem;
+                overflow: hidden;
+            }
+            #breadcrumbs {
+                margin-bottom: 3rem;
+                word-spacing: 0.3em;
+                color: #78a;
+            }
+            #breadcrumbs a {
+                word-spacing: 0;
+                color: #78a;
+            }
+            article {
+                margin-top: 1.3rem;
+            }
+            h1,
+            h2,
+            h3 {
+                font-weight: 600;
+                font-size: 1rem;
+                color: #444;
+                position: relative;
+            }
+            h1 {
+                font-size: 2rem;
+                margin-bottom: 2.1rem;
+                line-height: 2.42rem;
+                margin-top: -0.35rem;
+                margin-bottom: 1.75rem;
+            }
+            h2 {
+                font-size: 1.42rem;
+                margin-top: 3.5rem;
+                margin-bottom: 1.6rem;
+            }
+            .headerlink {
+                position: absolute;
+                left: -0.9em;
+                width: 1em;
+                opacity: 0;
+                transition: opacity 0.2s ease-in;
+            }
+            /* Don't show the link for h1, usually you only have a single h1 at the top
+     of the page, so it doesn't make much sense to add an anchor there, and with
+     the larger font size, it doesn't fit in a narrow viewport. */
+            h2:hover .headerlink,
+            h3:hover .headerlink {
+                opacity: 1;
+            }
+            code {
+                font-family: "Roboto Mono", monospace;
+                font-size: 0.84rem;
+                line-height: 1.5rem;
+            }
+            h3 > code {
+                /* Roboto Mono 500 is about as heavy as Inter semibold (600). */
+                font-weight: 500;
+            }
+            abbr {
+                text-transform: uppercase;
+                /* Downsize so caps are x-height, and compensate weight loss. */
+                font-size: 0.78rem;
+                font-weight: 500;
+                letter-spacing: 0.05rem;
+                /* Prevent abbrs from changing the line height of lines in which they occur. */
+                line-height: 0;
+            }
+            sub,
+            sup {
+                /* Don't disturb the line height of normal text. */
+                line-height: 0rem;
+                font-size: 0.78rem;
+                font-weight: 500;
+            }
+            p > code,
+            a > code,
+            h3 > code,
+            li > code,
+            td > code,
+            dt > code,
+            dd > code {
+                background-color: #f0f0f0;
+                padding: 0.13rem;
+                padding-left: 0.3rem;
+                padding-right: 0.3rem;
+                border-radius: 0.2rem;
+                line-height: 1rem;
+            }
+            h3 {
+                padding-top: 0.9rem;
+                padding-bottom: 0.8rem;
+            }
+            h3 > code {
+                margin-left: -0.1rem;
+            }
+            a {
+                color: #36d;
+                text-decoration: none;
+            }
+            p,
+            ul,
+            ol,
+            dl,
+            pre,
+            table {
+                /* Same space as line height, leave exactly one line blank. */
+                margin-bottom: 1.7rem;
+            }
+            pre {
+                padding-top: 0.8rem;
+                padding-bottom: 0.9rem;
+                padding-left: 1.19rem;
+                padding-right: 0;
+                background-color: #f8f8f8;
+                border-radius: 0 0.2rem 0.2rem 0;
+                border-left: 0.3rem solid #d5d8e0;
+                overflow-x: auto;
+            }
+            pre > code {
+                margin-right: 1.41rem;
+                color: #555;
+            }
+            code .k {
+                color: #36d;
+            }
+            code .kt,
+            code .nb {
+                color: #d36;
+            }
+            code .c1,
+            code .cm {
+                color: #d36;
+                font-style: italic;
+            }
+            code .s {
+                color: #c43;
+            }
+            ul,
+            ol {
+                list-style-type: none;
+                counter-reset: item;
+            }
+            table {
+                font-variant-numeric: tabular-nums;
+            }
+            th,
+            td {
+                padding-right: 2rem;
+            }
+            th {
+                text-align: left;
+            }
+            td > img {
+                display: block;
+                padding-top: 1em;
+                padding-bottom: 1em;
+            }
+            dl {
+                display: grid;
+                grid-template-columns: 1fr 4fr;
+                grid-column-gap: 2em;
+            }
+            dl dt {
+                text-align: right;
+            }
+            #main ul li:before {
+                color: #555;
+                content: "\2022";
+                display: inline-block;
+                font-weight: 700;
+                margin-left: -0.9rem;
+                width: 0.9rem;
+            }
+            #main ul li {
+                margin-left: 0.87rem;
+            }
+            #main ol li:before {
+                content: counter(item);
+                display: inline-block;
+                font-weight: 700;
+                width: 0.8rem;
+                margin-left: -1.6rem;
+                padding-right: 0.8rem;
+            }
+            #main ol li {
+                margin-left: 1.6rem;
+                counter-increment: item;
+            }
+            #nav-prev-next {
+                margin-top: 3.4rem;
+                padding-bottom: 3.3rem;
+            }
+            #nav-prev,
+            #nav-next,
+            #repo-link {
+                display: inline-block;
+            }
+            #nav-prev {
+                float: left;
+            }
+            #nav-next,
+            #repo-link {
+                float: right;
+                text-align: right;
+            }
+            #nav-prev::before {
+                content: "\219e";
+                padding-right: 0.5em;
+            }
+            #nav-next::after {
+                content: "\21a0";
+                padding-left: 0.5em;
+            }
+            aside {
+                grid-area: 1 / 1 / 2 / 3;
+                border-right: 1px solid #eee;
+                background-color: #fafafa;
+                color: #78a;
+            }
+            aside nav {
+                margin-top: 9rem;
+                padding-bottom: 3.4rem;
+                width: 14rem;
+                float: right;
+                /* Put the active chapter border over the sidebar border. */
+                margin-right: -1px;
+            }
+            aside a {
+                color: inherit;
+            }
+            aside .toc-section {
+                font-weight: 700;
+            }
+            aside ul {
+                margin-bottom: 0;
+            }
+            aside li {
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
+            aside li ul {
+                padding-top: 0.6rem;
+                padding-bottom: 1.1rem;
+            }
+            aside li.toc-section {
+                margin-top: 1.7rem;
+            }
+            aside li.toc-section {
+                color: #36d;
+            }
+            aside li.current,
+            aside li ul {
+                border-right: 0.3em solid #d5d8e0;
+                padding-left: 1em;
+                margin-left: -1em;
+            }
+            aside li.toc-chapter.current {
+                font-weight: 600;
+            }
+            aside li.toc-heading {
+                padding-left: 1em;
+                padding-right: 0.3em;
+            }
+
+            @media (max-width: 63rem) {
+                #content {
+                    /* Manual implementation of max-width: on narrower viewports,
+         auto-size the body. */
+                    grid-template-columns: 0 16rem auto 0;
+                }
+            }
+
+            @media (max-width: 1150px) {
+                html {
+                    font-size: 15px;
+                }
+            }
+
+            /* Move the sidebar TOC below content at small widths. */
+            @media (max-width: 800px) {
+                #content {
+                    display: block;
+                }
+                aside {
+                    border-top: 1px solid #eee;
+                    border-right: 0px none;
+                    padding-top: 1.7em;
+                }
+                aside nav {
+                    margin-left: 4em;
+                    margin-top: 1.7em;
+                    margin-right: 0;
+                    float: none;
+                    width: auto;
+                }
+                #main {
+                    padding-bottom: 1.7em;
+                }
+                /* Now that the TOC is full-width, adding the border on the right to
+       highlight the active page is not as clear anymore, it can be far away.
+       The current chapter is still in boldface, but that does not work for
+       section indexes. So point a guillemet at it as well. */
+                aside li.current,
+                aside li ul {
+                    border-right: 0px none;
+                    position: relative;
+                }
+                aside li.current:before {
+                    content: "\203a";
+                    position: absolute;
+                    left: 0;
+                }
+            }
+
+            /* Use less generous margins for very narrow viewports. */
+            @media (max-width: 650px) {
+                #main {
+                    padding-left: 2rem;
+                    padding-right: 2rem;
+                }
+                aside nav {
+                    margin-left: 2rem;
+                    padding-bottom: 2rem;
+                }
+            }
+
+            @media (max-width: 450px) {
+                #main {
+                    padding-left: 1.7em;
+                    padding-right: 1.7em;
+                }
+                aside nav {
+                    margin-left: 1.7em;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div id="content">
+            <div id="main">
+                <nav id="breadcrumbs">
+                    <a href="None"
+                        >Susan Westfall</a
+                    >
+                      ›
+                    <a href=".">About me</a> 
+                    <!-- <a id="repo-link" href="None">GitHub</a> -->
+                </nav>
+                <article><h1 id="about-me">About me<a class="headerlink" href="#about-me">&para;</a></h1>
+<h2 id="susan-westfall-phd">Susan Westfall, Ph.D.<a class="headerlink" href="#susan-westfall-phd">&para;</a></h2>
+<p><img src="pics/IMG_1242.JPG" alt="susan-photo" style="float:left;width:200px;margin: 5px 50px;"></p>
+<h2 id="how-to-connect">How to connect<a class="headerlink" href="#how-to-connect">&para;</a></h2>
+<ul>
+<li><a href="https://www.linkedin.com/in/susan-westfall-9a7b4248" target="_blank">Linkedin</a></li>
+<li><a href="https://bsky.app/profile/susanwestfall.bsky.social" target="_blank">BlueSky</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/" target="_blank">Pubmed</a></li>
+<li><a href="https://scholar.google.com/citations?user=EOFG8hQAAAAJ&amp;hl=en" target="_blank">Google Scholar</a></li>
+</ul>
+<p><br></p>
+<h2 id="profile-summary">Profile Summary<a class="headerlink" href="#profile-summary">&para;</a></h2>
+<p>I am a mucosal immunologist fascinated by host-environmental interactions. Intestinal architecture provides a unique landscape to understand how multiple tissue compartments, both host and bacterial, must coordinate their response to damage and invasion to establish homeostasis and promote health. Dysbiosis, damage and disease disrupt this delicate balance resulting in inflammatory bowel diseases (IBD), cancer and small intestinal dysmotility. My current research shows that our body’s environmental tolerance resides in multi-compartmental communication between the immune system, stromal backbone and the gut microbiota. I study tissue microenvironments with both functional and unbiased approaches in order to unravel targetable pathways that can inform therapeutic development.</p>
+<p>I look forward to establishing an independent research platform that will detangle multi-compartmental communication in intestinal tissue microenvironments to facilitate development of targetted therapies against gastrointestinal disorders.</p>
+<h2 id="research-interests">Research Interests<a class="headerlink" href="#research-interests">&para;</a></h2>
+<ul>
+<li>Mucosal Immunology</li>
+<li>Gut Microbiota</li>
+<li>Host-Parasite Interactions</li>
+<li>Gut-Brain-Axis</li>
+</ul>
+<h2 id="research-experience">Research Experience<a class="headerlink" href="#research-experience">&para;</a></h2>
+<h3 id="postdoctoral-research-fellow-2020-present">Postdoctoral Research Fellow    | 2020 - present<a class="headerlink" href="#postdoctoral-research-fellow-2020-present">&para;</a></h3>
+<h3 id="research-institute-of-mcgill-university-health-complex-ri-muhc-montreal-qc-canada">Research Institute of McGill University Health Complex (RI-MUHC), <em>Montreal, QC,</em> Canada<a class="headerlink" href="#research-institute-of-mcgill-university-health-complex-ri-muhc-montreal-qc-canada">&para;</a></h3>
+<h4 id="department-of-microbiology-and-immunology-dr-irah-kings-lab"><strong><em>Department of Microbiology and Immunology | Dr. Irah King’s Lab</em></strong><a class="headerlink" href="#department-of-microbiology-and-immunology-dr-irah-kings-lab">&para;</a></h4>
+<ul>
+<li>Created and led a research project defining a novel role of type 1 immunity during intestinal damage</li>
+<li>Discovered that IFN𝛾 bridges an immune-stromal cell axis to prevent tissue damage and reduce mortality in mice subjected to infection in a gut-microbiota dependent manner.</li>
+<li>Technical expertise in flow cytometry, bone marrow chimeras, adoptive transfer, genetic mouse models, primary cell cultures, intestinal organoids and stem cells, confocal imaging and in situ hybridization</li>
+<li>Led several collaborative multiparametric imaging and clinical immunophenotyping studies</li>
+<li>Duties included leadership roles, official mentorship, and teaching experience</li>
+</ul>
+<h3 id="postdoctoral-research-fellow-2018-2020">Postdoctoral Research Fellow | 2018 - 2020<a class="headerlink" href="#postdoctoral-research-fellow-2018-2020">&para;</a></h3>
+<h3 id="icahn-school-of-medicine-at-mount-sinai-new-york-ny-usa">Icahn School of Medicine at Mount Sinai, <em>New York, NY,</em> USA<a class="headerlink" href="#icahn-school-of-medicine-at-mount-sinai-new-york-ny-usa">&para;</a></h3>
+<h4 id="department-of-neurology-dr-giulio-pasinettis-lab"><strong><em>Department of Neurology | Dr. Giulio Pasinetti's Lab</em></strong><a class="headerlink" href="#department-of-neurology-dr-giulio-pasinettis-lab">&para;</a></h4>
+<ul>
+<li>Defined gut-brain-axis mechanisms exacerbating post-traumatic stress disorder symptoms in mice</li>
+<li>Developed a probiotic formulation with optimized metabolite output driving an immunoregulatory state</li>
+<li>Built a microbiology lab and humanized model of the gastrointestinal tract from the bottom-up</li>
+<li>Collaborated on machine learning research for predicting relationships between gut microbiota populations, immune cell subsets and behavioral phenotypes to direct mechanistic-based hypotheses</li>
+<li>Duties included mentorship, IACUC and IRB protocol writing, collaborative projects in metabolomics and neuroimmunology, clinical sample work and program grant writing</li>
+</ul>
+<h3 id="co-founder-vice-president-of-proviva-pharma-inc-montreal-canada-2015-2018">Co-founder &amp; Vice President of Proviva Pharma Inc., <strong><em>Montreal, Canada</em></strong> | 2015 - 2018<a class="headerlink" href="#co-founder-vice-president-of-proviva-pharma-inc-montreal-canada-2015-2018">&para;</a></h3>
+<ul>
+<li>Spin-off company based on my Ph.D. work created with my supervisor focused on developing probiotic and prebiotic formulations with health claims for metabolic disorders and aging</li>
+<li>Filed an international patent and obtained operating permits in several countries</li>
+<li>Collaborated with manufacturers to customize probiotic products for Asian markets</li>
+</ul>
+<h3 id="research-assistant-in-the-department-of-biochemistry-2013-2014">Research Assistant in the Department of Biochemistry | 2013 - 2014<a class="headerlink" href="#research-assistant-in-the-department-of-biochemistry-2013-2014">&para;</a></h3>
+<h4 id="banaras-hindu-university-dr-surya-pratap-singhs-lab-varanasi-india"><strong><em>Banaras Hindu University, Dr. Surya Pratap Singh’s lab; Varanasi India</em></strong><a class="headerlink" href="#banaras-hindu-university-dr-surya-pratap-singhs-lab-varanasi-india">&para;</a></h4>
+<ul>
+<li>Explored principles of alternative medicine to design novel treatment paradigms for Parkinson's disease</li>
+<li>Discovered therapeutic benefits of plant-based herbs acting through gut-brain-axis mechanisms</li>
+</ul>
+<h3 id="research-assistant-at-genome-quebec-innovation-centre-2012-2013">Research Assistant at Genome Quebec Innovation Centre | 2012 - 2013<a class="headerlink" href="#research-assistant-at-genome-quebec-innovation-centre-2012-2013">&para;</a></h3>
+<h4 id="mcgill-university-montreal-canada"><em><strong>McGill University; Montreal, Canada</strong></em><a class="headerlink" href="#mcgill-university-montreal-canada">&para;</a></h4>
+<ul>
+<li>Developed a pipeline to identify epigenetic modifications in clinical samples using high-throughput, next-Generation sequencing technologies for MethylC-Seq, ChIP-Seq and RNA-Seq</li>
+<li>Created a foundation upon which several high-impact studies were published</li>
+</ul>
+<h2 id="education">Education<a class="headerlink" href="#education">&para;</a></h2>
+<h3 id="phd-2015-2018">Ph.D. | 2015 - 2018<a class="headerlink" href="#phd-2015-2018">&para;</a></h3>
+<h3 id="mcgill-university-montreal-qc-canada">McGill University,  <em>Montreal, QC,</em> Canada<a class="headerlink" href="#mcgill-university-montreal-qc-canada">&para;</a></h3>
+<ul>
+<li>Department of Biomedical Engineering | Dr. Satya Prakash's Lab</li>
+<li>Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases</li>
+</ul>
+<h3 id="msc-2009-2012">M.Sc.   | 2009 - 2012<a class="headerlink" href="#msc-2009-2012">&para;</a></h3>
+<h3 id="mcgill-university-montreal-qc-canada_1">McGill University,  <em>Montreal, QC,</em> Canada<a class="headerlink" href="#mcgill-university-montreal-qc-canada_1">&para;</a></h3>
+<ul>
+<li>Department of Neuroscience | Dr. Nicolas Cermakian's Lab</li>
+<li>The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression</li>
+</ul>
+<h3 id="bsc-honours-2005-2009">B.Sc. (Honours) | 2005 - 2009<a class="headerlink" href="#bsc-honours-2005-2009">&para;</a></h3>
+<h3 id="mcgill-university-montreal-qc-canada_2">McGill University,  <em>Montreal, QC,</em> Canada<a class="headerlink" href="#mcgill-university-montreal-qc-canada_2">&para;</a></h3>
+<ul>
+<li>Department of Biochemistry | Dr. Thomas Duchaine's Lab</li>
+<li>Characterization of the helicase domain within RNAi machinery</li>
+</ul>
+<h2 id="work-research-experiences">Work &amp; Research Experiences<a class="headerlink" href="#work-research-experiences">&para;</a></h2>
+<h3 id="mcgill-university-montreal-qc-canada_3">McGill University,  <em>Montreal, QC,</em> Canada<a class="headerlink" href="#mcgill-university-montreal-qc-canada_3">&para;</a></h3>
+<h4 id="teaching-assistant-2016">Teaching Assistant | 2016<a class="headerlink" href="#teaching-assistant-2016">&para;</a></h4>
+<ul>
+<li>Department of Biomedical Engineering</li>
+<li>Course: BMED505: Artificial Cells</li>
+</ul>
+<h3 id="banaras-hindu-university-varanasi-up-india">Banaras Hindu University, <em>Varanasi, UP,</em> India<a class="headerlink" href="#banaras-hindu-university-varanasi-up-india">&para;</a></h3>
+<h4 id="research-assistant-2013-2014">Research Assistant | 2013 – 2014<a class="headerlink" href="#research-assistant-2013-2014">&para;</a></h4>
+<ul>
+<li>Department of Biochemistry</li>
+<li>Exploring immunological and behavioral benefits of nutraceuticals for Parkinson’s disease.</li>
+</ul>
+<h3 id="mcgill-university-montreal-qc-canada_4">McGill University,  <em>Montreal, QC,</em> Canada<a class="headerlink" href="#mcgill-university-montreal-qc-canada_4">&para;</a></h3>
+<h4 id="research-assistant-2012-2013">Research Assistant | 2012 - 2013<a class="headerlink" href="#research-assistant-2012-2013">&para;</a></h4>
+<ul>
+<li>McGill University &amp; Genome Quebec Innovation Centre</li>
+<li>Determination of epigenetic modifications in clinical sampes using high-throughput, Next-Generation sequencing technologies for MethylC-Seq, ChIP-Seq and RNA-Seq</li>
+</ul>
+<h4 id="teaching-assistant-and-grader-2011-2012">Teaching Assistant and Grader  | 2011 - 2012<a class="headerlink" href="#teaching-assistant-and-grader-2011-2012">&para;</a></h4>
+<ul>
+<li>Department of Biochemistry</li>
+<li>Bioc300D2: Laboratory in Biochemistry</li>
+</ul>
+<h4 id="undergraduate-researcher-2007">Undergraduate Researcher | 2007<a class="headerlink" href="#undergraduate-researcher-2007">&para;</a></h4>
+<ul>
+<li>Department of Biomedical Engineering</li>
+<li>iGEM: International Genetically Engineered Machines Competition | MIT</li>
+<li>Group research leader for iGEM. We strove to engineer a robust quorum sensor in bacteria and to mathematically model this stochastic system for execution in Mathematica.</li>
+</ul>
+<h2 id="fellowships">Fellowships<a class="headerlink" href="#fellowships">&para;</a></h2>
+<ul>
+<li>CIHR Postdoctoral Fellowship | $70,000 annually | Section Rank: top 2.7%  | 2021-2025</li>
+<li>American Association of Immunology (AAI) Salary Fellowship | $75,000 (Awarded) | 2021</li>
+<li>McLaughlin Postdoctoral Fellowship, Dept. Medicine, McGill | $25,000 | 2021</li>
+<li>Excellence Award, Dept. Biomedical Engineering, McGill University | $5000 annually | 2017-2018</li>
+<li>Max Binz Award, Dept. of Medicine, McGill University | $12,000 annually | 2017-2018</li>
+<li>NSERC CGS Ph.D. Fellowship | $35,000 annually | 2014-2017</li>
+<li>FRSQ Master’s Fellowship | $17,500 annually | 2009-2012</li>
+<li>Summer NSERC Undergraduate Research Studentship Award | $5625 | 2008</li>
+<li>J.W. McConnell Scholarship, McGill (internal) | $3000 annually | 2005-2009</li>
+</ul>
+<h2 id="honours-awards">Honours &amp; Awards<a class="headerlink" href="#honours-awards">&para;</a></h2>
+<ul>
+<li>Invited speaker, International Union of Immunological Sciences (IUIS) meeting, Vienna, Austria   | 2025</li>
+<li>Oral presentation award, Montreal Immunology Meeting (MIM), Montreal, CA. | $500 | 2024</li>
+<li>2nd Oral Prize at Woods Hole Immunoparasitology Meeting, WHIP. Mass. USA. | $200 | 2024</li>
+<li>Travel Award Society for Mucosal Immunology (SMI), ICMI. Copenhagen, DK. | $1000 | 2024</li>
+<li>1st Prize for Oral Presentation at Canadian Parasitology Network (CPN) &amp; AMPS Symposium, Montreal, QC | $250 | 2023</li>
+<li>1st Prize for Oral Presentation at Canadian Society of Immunology (CSI), Orford, QC  | $250 | 2023</li>
+<li>Travel Award for Canadian Society of Immunology (CSI), Orford, QC  | $500 | 2023</li>
+<li>Invitation &amp; Full Scholarship to Cytokines (ICIS) Conference, Athens, Greece | 2023</li>
+<li>Invitation &amp; Full Scholarship to American Society of Tropical Medicine and Hygiene (ASTHMH), Chicago, USA | 2023</li>
+<li>1st Prize &amp; Excellence Award for Oral Presentation Woods Hole Immunoparasitology (WHIP) Conference | 2023</li>
+<li>Travel Award Society for Mucosal Immunology (SMI), ICMI. Seattle, USA | $1000USD | 2022</li>
+<li>1st Poster Prize, Woods Hole Immunoparasitology Meeting, WHIP. Mass. USA | $500USD | 2021</li>
+<li>Journal Top 100 Reads (Rank 26) in Scientific Reports (Longevity Extension in Drosophila) | 2019</li>
+<li>1st Poster Prize at Probiota international conference. Amsterdam, NL. | 2016</li>
+<li>1st Oral Prize at Natural Health and Product Research International Conference | $250    | 2015</li>
+<li>Shastri Indo-Canadian Institute Travel Grant, international competition | $1000 | 2014</li>
+<li>1st Poster Prize, International Congress on Holistic Medicine Conference, Kerala, India | 2013</li>
+<li>Graduate Program of Neuroscience Entrance Scholarship | $10,000 | 2009</li>
+<li>Further 1st Place Awards International &amp; Domestic: 13 awarded | 2007-2011</li>
+</ul>
+<h2 id="other-activities">Other Activities<a class="headerlink" href="#other-activities">&para;</a></h2>
+<h4 id="teaching-experience">Teaching Experience<a class="headerlink" href="#teaching-experience">&para;</a></h4>
+<ul>
+<li>Honors Immunology, MIMM501/502, Guest Lecturer | 2023-2025</li>
+<li>Intermediate Immunology, MIMM314, Guest Lecturer | 2023-2025</li>
+<li>Mentor, INDS123, Research Fundamentals for Medical Students | 2022-2023</li>
+<li>Invited Talk for Seminar Series in Dept. Immunology, McGill University | 2015</li>
+</ul>
+<h4 id="editorial-experience">Editorial Experience<a class="headerlink" href="#editorial-experience">&para;</a></h4>
+<ul>
+<li>Member of CIHR Review Committee for Doctoral Students | 2023-2025</li>
+<li>Co-editor Frontiers in Immunology Special Research Topic | 2022-present</li>
+<li>Co-editor to Frontiers in Immunology Editorial Board | 2022-present</li>
+</ul>
+<h4 id="student-supervision">Student Supervision<a class="headerlink" href="#student-supervision">&para;</a></h4>
+<ul>
+<li>Honors Students (1): Giordano Mandato</li>
+<li>Undergraduates (6): L. Saraffin, S. Cleff, F. Grafton, S. Sorrini, C. Shum-Tim &amp; M. Syssoeva</li>
+<li>MSc &amp; PhD candidates (3): Umar Iqbal, Leila Faradel, Gabriel Barragan</li>
+<li>Research Associates (1): Francesca Caracci</li>
+</ul>
+<h4 id="invited-judge">Invited Judge<a class="headerlink" href="#invited-judge">&para;</a></h4>
+<ul>
+<li>Society of Mucosal Immunology (ICMI Biannual Meeting) Poster Judge | 2024</li>
+<li>Conference Poster Judge at Canadian Parasitology Network (CPN)/AMPS | 2023-2024</li>
+<li>Student Research Day (RI MUHC) Poster Judge | 2023</li>
+<li>Conference Poster Judge at Canadian Society of Immunology (CSI) | 2023</li>
+<li>Student Poster judge at McGill Immunology Graduate Research Day | 2023</li>
+<li>Conference Poster judge at International Conference of Mucosal Immunology (ICMI) | 2022</li>
+<li>Conference Poster judge at Annual Montreal Parasitology Symposium (AMPS) | 2022</li>
+<li>RI-MIHC Graduate Research Day judge of poster/oral presentations | 2022</li>
+</ul>
+<h4 id="industrial-experience">Industrial Experience<a class="headerlink" href="#industrial-experience">&para;</a></h4>
+<ul>
+<li>Vice President Proviva Pharma Inc.: Montreal QC, Canada. (part-time) | 2015-2019</li>
+<li>Spin-off created with my PhD supervisor to sell probiotic and prebiotic formulations internationally</li>
+</ul></article>
+                <nav id="nav-prev-next">
+                    <a
+                        id="nav-next"
+                        href="publications/"
+                        title="Publications"
+                        >Next</a
+                    >
+                    </nav>
+                </div>
+            <aside>
+                <nav>
+                    <ul>
+                        <li class="toc-section">
+                            <a href="."
+                                >About me</a
+                            >
+                        </li>
+                        <li class="toc-section">
+                            <a href="publications/"
+                                >Publications</a
+                            >
+                        </li>
+                        <li class="toc-section">
+                            <a href="researchexperience/"
+                                >Research Experience</a
+                            >
+                        </li>
+                        </ul>
+                </nav>
+            </aside>
+        </div>
+    </body>
+</html>
