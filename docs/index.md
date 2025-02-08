@@ -2,20 +2,19 @@
 ## Susan Westfall, Ph.D.
 
 
-<img src="pics/IMG_1242.jpg" alt="susan-photo" style="float:left;width:200px;height:270px;margin: 5px 50px;">
+<img src="pics/IMG_1242.JPG" alt="susan-photo" style="float:left;width:200px;height:270px;margin: 5px 50px;">
 
 ## How to connect
 - [Linkedin](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
-- [Twitter](https://twitter.com/WestfallSusan){target=_blank}
+- [BlueSky](https://bsky.app/profile/susanwestfall.bsky.social){target=_blank}
 - [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}
 - [Google Scholar](https://scholar.google.com/citations?user=EOFG8hQAAAAJ&hl=en){target=_blank}
-<!-- - [Semantic Scholar](https://www.semanticscholar.org/author/Susan-Westfall/49749982){target=_blank} -->
-
-<br>
 
 
 ## Profile Summary
-I am a research scientist excited about anything and everything happening in our gut. For 15 years I've navigated through 9 departments in 3 countries exploring questions about mucosal immunology, host-parasite interactions, the gut-brain-axis and the gut microbiota. My scientific roadtrip, although winding, is rooted in fundamental questions about how the environment communicates with our body. In my opinion, the essence of our body’s tolerance to the environment resides in multi-compartment communication between the immune system, stromal backbone and the gut microbiota. I look forward to establishing a research platform that will detangle this crosstalk to facilitate the development of multi-facted therapies against gastrointestinal disorders. 
+I am a mucosal immunologist fascinated by host-environmental interactions. Intestinal architecture provides a unique landscape to understand how multiple tissue compartments, both host and bacterial, must coordinate their response to damage and invasion to establish homeostasis and promote health. Dysbiosis, damage and disease disrupt this delicate balance resulting in inflammatory bowel diseases (IBD), cancer and small intestinal dysmotility. My current research shows that our body’s environmental tolerance resides in multi-compartmental communication between the immune system, stromal backbone and the gut microbiota. I study tissue microenvironments with both functional and unbiased approaches in order to unravel targetable pathways that can inform therapeutic development.
+
+I look forward to establishing an independent research platform that will detangle multi-compartmental communication in intestinal tissue microenvironments to facilitate development of targetted therapies against gastrointestinal disorders. 
 
 ## Research Interests
  - Mucosal Immunology
@@ -23,17 +22,43 @@ I am a research scientist excited about anything and everything happening in our
  - Host-Parasite Interactions
  - Gut-Brain-Axis
 
-## Education
-### Post Doctoral Fellowship	| 2020 - present
+## Research Experience
+### Postdoctoral Research Fellow	| 2020 - present
 #### Research Institute of McGill University Health Complex (RI-MUHC), _Montreal, QC,_ Canada
-- Department of Microbiology and Immunology | Dr. Irah King’s Lab 			
-- Helminth infection drives IFN𝛾 production from a tissue resident CD8 T cell population to promote disease tolerance and tissue repair through an immune-stromal axis
+**_Department of Microbiology and Immunology | Dr. Irah King’s Lab_**			
+- Created and led a research project defining a novel role of type 1 immunity during intestinal damage
+- Discovered that IFN𝛾 bridges an immune-stromal cell axis to prevent tissue damage and reduce mortality in mice subjected to infection in a gut-microbiota dependent manner.
+- Technical expertise in flow cytometry, bone marrow chimeras, adoptive transfer, genetic mouse models, primary cell cultures, intestinal organoids and stem cells, confocal imaging and in situ hybridization
+- Led several collaborative multiparametric imaging and clinical immunophenotyping studies
+- Duties included leadership roles, official mentorship, and teaching experience 
 
-### Post Doctoral Fellowship | 2018 - 2020 
+### Postdoctoral Research Fellow | 2018 - 2020 
 #### Icahn School of Medicine at Mount Sinai, _New York, NY,_ USA	
-- Department of Neurology | Dr. Giulio Pasinetti's Lab 			
-- Probiotics and prebiotics prevent depression- and anxiety-like behaviors by altering peripheral Treg and Th17 immune cell populations in an AHR-dependent manner
+**_Department of Neurology | Dr. Giulio Pasinetti's Lab_**
+ - Defined gut-brain-axis mechanisms exacerbating post-traumatic stress disorder symptoms in mice
+ - Developed a probiotic formulation with optimized metabolite output driving an immunoregulatory state
+ - Built a microbiology lab and humanized model of the gastrointestinal tract from the bottom-up
+ - Collaborated on machine learning research for predicting relationships between gut microbiota populations, immune cell subsets and behavioral phenotypes to direct mechanistic-based hypotheses
+ - Duties included mentorship, IACUC and IRB protocol writing, collaborative projects in metabolomics and neuroimmunology, clinical sample work and program grant writing
 
+### Co-founder & Vice President of Proviva Pharma Inc | 2015 - 2018
+**_Montreal, Canada_**
+ - Spin-off company based on my Ph.D. work created with my supervisor focused on developing probiotic and prebiotic formulations with health claims for metabolic disorders and aging
+ - Filed an international patent and obtained operating permits in several countries
+ - Collaborated with manufacturers to customize probiotic products for Asian markets
+
+### Research Assistant in the Department of Biochemistry | 2013 - 2014
+**_Banaras Hindu University, Dr. Surya Pratap Singh’s lab; Varanasi India_**
+ - Explored principles of alternative medicine to design novel treatment paradigms for Parkinson's disease
+ - Discovered therapeutic benefits of plant-based herbs acting through gut-brain-axis mechanisms
+
+### Research Assistant at Genome Quebec Innovation Centre | 2012 - 2013
+_**McGill University; Montreal, Canada**_
+ - Developed a pipeline to identify epigenetic modifications in clinical samples using high-throughput, next-Generation sequencing technologies for MethylC-Seq, ChIP-Seq and RNA-Seq
+ - Created a foundation upon which several high-impact studies were published
+
+
+## Education
 ### Ph.D. | 2015 - 2018 
 #### McGill University,  _Montreal, QC,_ Canada	
 - Department of Biomedical Engineering | Dr. Satya Prakash's Lab 			
