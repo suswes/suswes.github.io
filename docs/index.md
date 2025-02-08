@@ -28,11 +28,11 @@ I look forward to establishing an independent research platform that will detang
 ### Postdoctoral Research Fellow	| 2020 - present
 #### Research Institute of McGill University Health Complex (RI-MUHC), _Montreal, QC,_ Canada
 **_Department of Microbiology and Immunology | Dr. Irah King’s Lab_**			
- - Created and led a research project defining a novel role of type 1 immunity during intestinal damage
- - Discovered that IFN𝛾 bridges an immune-stromal cell axis to prevent tissue damage and reduce mortality in mice subjected to infection in a gut-microbiota dependent manner.
- - Technical expertise in flow cytometry, bone marrow chimeras, adoptive transfer, genetic mouse models, primary cell cultures, intestinal organoids and stem cells, confocal imaging and in situ hybridization
- - Led several collaborative multiparametric imaging and clinical immunophenotyping studies
- - Duties included leadership roles, official mentorship, and teaching experience 
+- Created and led a research project defining a novel role of type 1 immunity during intestinal damage
+- Discovered that IFN𝛾 bridges an immune-stromal cell axis to prevent tissue damage and reduce mortality in mice subjected to infection in a gut-microbiota dependent manner.
+- Technical expertise in flow cytometry, bone marrow chimeras, adoptive transfer, genetic mouse models, primary cell cultures, intestinal organoids and stem cells, confocal imaging and in situ hybridization
+- Led several collaborative multiparametric imaging and clinical immunophenotyping studies
+- Duties included leadership roles, official mentorship, and teaching experience 
 
 ### Postdoctoral Research Fellow | 2018 - 2020 
 #### Icahn School of Medicine at Mount Sinai, _New York, NY,_ USA	
