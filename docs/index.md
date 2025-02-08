@@ -2,7 +2,7 @@
 ## Susan Westfall, Ph.D.
 
 
-<img src="pics/susan.jpg" alt="susan-photo" style="float:left;width:200px;height:270px;margin: 5px 50px;">
+<img src="pics/IMG_1242.jpg" alt="susan-photo" style="float:left;width:200px;height:270px;margin: 5px 50px;">
 
 ## How to connect
 - [Linkedin](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
