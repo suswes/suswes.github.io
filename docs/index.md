@@ -2,7 +2,7 @@
 ## Susan Westfall, Ph.D.
 
 
-<img src="pics/IMG_1242.JPG" alt="susan-photo" style="float:left;width:200px;height:270px;margin: 5px 50px;">
+<img src="pics/IMG_1242.JPG" alt="susan-photo" style="float:left;width:200px;margin: 5px 50px;">
 
 ## How to connect
 - [Linkedin](https://www.linkedin.com/in/susan-westfall-9a7b4248){target=_blank}
@@ -26,16 +26,16 @@ I look forward to establishing an independent research platform that will detang
 
 ## Research Experience
 ### Postdoctoral Research Fellow	| 2020 - present
-#### Research Institute of McGill University Health Complex (RI-MUHC), _Montreal, QC,_ Canada
+### Research Institute of McGill University Health Complex (RI-MUHC), _Montreal, QC,_ Canada
 **_Department of Microbiology and Immunology | Dr. Irah King’s Lab_**			
-- Created and led a research project defining a novel role of type 1 immunity during intestinal damage 
+- Created and led a research project defining a novel role of type 1 immunity during intestinal damage
 - Discovered that IFN𝛾 bridges an immune-stromal cell axis to prevent tissue damage and reduce mortality in mice subjected to infection in a gut-microbiota dependent manner.
 - Technical expertise in flow cytometry, bone marrow chimeras, adoptive transfer, genetic mouse models, primary cell cultures, intestinal organoids and stem cells, confocal imaging and in situ hybridization
 - Led several collaborative multiparametric imaging and clinical immunophenotyping studies
 - Duties included leadership roles, official mentorship, and teaching experience 
 
 ### Postdoctoral Research Fellow | 2018 - 2020 
-#### Icahn School of Medicine at Mount Sinai, _New York, NY,_ USA	
+### Icahn School of Medicine at Mount Sinai, _New York, NY,_ USA	
 **_Department of Neurology | Dr. Giulio Pasinetti's Lab_**
 - Defined gut-brain-axis mechanisms exacerbating post-traumatic stress disorder symptoms in mice
 - Developed a probiotic formulation with optimized metabolite output driving an immunoregulatory state
@@ -62,17 +62,17 @@ _**McGill University; Montreal, Canada**_
 
 ## Education
 ### Ph.D. | 2015 - 2018 
-#### McGill University,  _Montreal, QC,_ Canada	
+### McGill University,  _Montreal, QC,_ Canada	
 - Department of Biomedical Engineering | Dr. Satya Prakash's Lab 			
 - Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases 
 
 ### M.Sc.	| 2009 - 2012 
-#### McGill University,  _Montreal, QC,_ Canada	
+### McGill University,  _Montreal, QC,_ Canada	
 - Department of Neuroscience | Dr. Nicolas Cermakian's Lab 			
 - The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression
 
 ### B.Sc. (Honours)	| 2005 - 2009 
-#### McGill University,  _Montreal, QC,_ Canada	
+### McGill University,  _Montreal, QC,_ Canada	
 - Department of Biochemistry | Dr. Thomas Duchaine's Lab 			
 - Characterization of the helicase domain within RNAi machinery
 
