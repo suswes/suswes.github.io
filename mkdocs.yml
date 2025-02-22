@@ -1,8 +1,13 @@
 site_name: Susan Westfall
 nav:
         - About me: index.md
-        - Publications : publications.md
+        - Education: education.md
         - Research Experience: researchexperience.md
+        - Awards & Honors: awards.md
+        - Teaching & Mentoring: work.md 
+        - Scientific Community Involvement: community.md
+        - Publications : publications.md
+
 theme:
         name: null
         custom_dir: ./theme

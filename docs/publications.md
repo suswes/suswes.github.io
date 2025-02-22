@@ -2,30 +2,29 @@
 
 - [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/susan.westfall.1/bibliography/public/){target=_blank}
 
+## Highlighted Publications
+#### Under Revision
+- **Westfall S**, Gentile M, Olsen T, Karo-Atar D, Bogza A, Rostel F, Pardy R, Mandato G, Fontes G, Herbert D, Melichar H, Abadie V, Richer M, Vihn D, Koenig J, Harrison O, Divangahi M, Weis S, Gregorieff A, King I. A type 1 immune-stromal cell network mediates disease tolerance and barrier protection against intestinal infection. Cell. (Under revision – CELL-D-24-01181). Available on BioRxiv: doi: https://doi.org/10.1101/2024.09.04.611190
+- Cai W, **Westfall S**, Haddad M, Haddad R, Kesten I, Hoffman T, Laan R, Wong C, Brown N, Tansley S, Lister K, Mooshmandi M, Wang F, Lorenzo L, Sharif B,  Sahar T, Clayton C, Wu N, Zhang J, Bar-Yoseph H, Pitashny M, Mogil J, Prager-Khoutorsky M, Séguéla P, King I, De Koninck Y, Brereton N, Gonzalez E, Shir Y, Khoutorsky A, Minerbi A. Gut microbiota promotes pain in fibromyalgia. Neuron. (Under revision - EMID:a64f3bb0f657b1c8)
+
+#### Published
+- Karo-Atar D, Ouladan S, Javkar T, Joumier L, Matheson M, Merritt S, **Westfall S**, Rochette A, Gentile M, Fontes G, Fonseca G, Parisien M, Diatchenko L, von Molke J, Malleshaiah M, Gregorieff A, King I. (2022) Helminth-induced reprogramming of the stem cell compartment inhibits type 2 immunity. J Exp Med. 219(9):e20212311.
+- **Westfall S**, Caracci F, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Optimization of Probiotic Therapeutics using Machine Learning in an Artificial Human Gastrointestinal Tract. Nat Sci Rep. Jan 13;11(1):1067. 
+- **Westfall S**, Caracci F, Frolinger T, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Microbiota metabolites modulate the T helper 17 to regulatory T cell (Th17/Treg) imbalance promoting resilience to stress-induced anxiety- and depressive-like behaviors. Brain, Behavior, Immun. Jan;91:350-368. 
+- **Westfall S**, Caracci F, Frolinger T, Pasinetti G. Optimization of Probiotic Therapeutics Chronic Stress-Induced Depression and Anxiety Priming Modulated by Gut-Brain-Axis Immunity. (2021) Front Immunol. Jun 24;12:6760500. 
+- **Westfall S**, Lomis N, Prakash, S. (2019) A novel synbiotic delays Alzheimer’s disease onset via combinatorial gut-brain-axis signaling in Drosophila melanogaster. PloS one 14(4):e0214985.
+- **Westfall S**, Lomis N, Prakash S. (2018) Longevity extension in Drosophila melanogaster through gut-brain-axis communication: examining a novel probiotic and synbiotic formulation. Nat Sci Rep. 8(10):8362.
+- **Westfall S**, Lomis N, Kahouli I, Dia SY, Prakash S. (2017) Microbiome, probiotics and neurodegenerative diseases: deciphering the gut brain axis. Cellular and Molecular Life Sciences. 74(14):online
 
 ## Patents
-- Westfall S, Prakash, S. (Feb 13, 2018) Probiotic Formulations for the treatment and alleviation of metabolic and oxidative stress, inflammation and neurodegeneration. USA Provisional Patent. Serial No. 16969759.
+- **Westfall S**, Prakash, S. (Feb 13, 2018) Probiotic Formulations for the treatment and alleviation of metabolic and oxidative stress, inflammation and neurodegeneration. USA Provisional Patent. Serial No. 16969759.
 
 ## Book Chapter
  - **Westfall S**, Pratap S. (**2016**) The Ayurvedic Treatment of Neurodegenerative Diseases. Holistic Approaches to Infectious Diseases. Apple Academic Press. ON, Canada. P1-54. (Book Chapter)
-
-## Theses
- - Ph.D. Susan Westfall, McGill University, **2018**. [Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases](https://escholarship.mcgill.ca/concern/theses/1z40kw22q?locale=en){target=_blank}.
-
- - MS.c. Susan Westfall, McGill University, **2012**. [The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression](https://escholarship.mcgill.ca/concern/theses/p8418s33g?locale=en){target=_blank}.
  
-
-## Highlighted Publications
- - **Westfall S**, Gentile M, Olsen T, Karo-Atar D, …. King I. A type 1 immune-stromal cell network mediates disease tolerance and barrier protection against intestinal infection. Cell. (Under revision – CELL-D-24-01181). 
-Available on BioRxiv: doi: https://doi.org/10.1101/2024.09.04.611190
- - Cai W, **Westfall S**, Haddad M, Haddad R, Kesten I, Hoffman T, Laan R, Wong C, Brown N, Tansley S, Lister K, Mooshmandi M, Wang F, Lorenzo L, Sharif B,  Sahar T, Clayton C, Wu N, Zhang J, Bar-Yoseph H, Pitashny M, Mogil J, Prager-Khoutorsky M, Séguéla P, King I, De Koninck Y, Brereton N, Gonzalez E, Shir Y, Khoutorsky A, Minerbi A. Gut microbiota promotes pain in fibromyalgia. Neuron. (Under revision - EMID:a64f3bb0f657b1c8)
- - Karo-Atar D, Ouladan S, Javkar T, Joumier L, Matheson M, Merritt S, **Westfall S**, Rochette A, Gentile M, Fontes G, Fonseca G, Parisien M, Diatchenko L, von Molke J, Malleshaiah M, Gregorieff A, King I. (2022) Helminth-induced reprogramming of the stem cell compartment inhibits type 2 immunity. J Exp Med. 219(9):e20212311.
- - **Westfall S**, Caracci F, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Optimization of Probiotic Therapeutics using Machine Learning in an Artificial Human Gastrointestinal Tract. Nat Sci Rep. Jan 13;11(1):1067. 
- - **Westfall S**, Caracci F, Frolinger T, Zhao D, Qing-li W, Simon J, Pasinetti G. (2021) Microbiota metabolites modulate the T helper 17 to regulatory T cell (Th17/Treg) imbalance promoting resilience to stress-induced anxiety- and depressive-like behaviors. Brain, Behavior, Immun. Jan;91:350-368. 
- - **Westfall S**, Caracci F, Frolinger T, Pasinetti G. Optimization of Probiotic Therapeutics Chronic Stress-Induced Depression and Anxiety Priming Modulated by Gut-Brain-Axis Immunity. (2021) Front Immunol. Jun 24;12:6760500. 
- - Westfall S, Lomis N, Prakash, S. (2019) A novel synbiotic delays Alzheimer’s disease onset via combinatorial gut-brain-axis signaling in Drosophila melanogaster. PloS one 14(4):e0214985.
- - **Westfall S**, Lomis N, Prakash S. (2018) Longevity extension in Drosophila melanogaster through gut-brain-axis communication: examining a novel probiotic and synbiotic formulation. Nat Sci Rep. 8(10):8362.
- - **Westfall S**, Lomis N, Kahouli I, Dia SY, Prakash S. (2017) Microbiome, probiotics and neurodegenerative diseases: deciphering the gut brain axis. Cellular and Molecular Life Sciences. 74(14):online
+## Theses
+- Ph.D. Susan Westfall, McGill University, **2018**. [Development of a novel probiotic and synbiotic formulation for the management of neurodegenerative and other diseases](https://escholarship.mcgill.ca/concern/theses/1z40kw22q?locale=en){target=_blank}.
+- MS.c. Susan Westfall, McGill University, **2012**. [The time-mediated effects of turpentine on fever, cytokine induction and peripheral clock gene expression](https://escholarship.mcgill.ca/concern/theses/p8418s33g?locale=en){target=_blank}.
 
 ## Remaining Publications
  - Pei J, Oliveira N, Recinto S, Kazanova A, Queiroz-Junior C, Li Z, Coutu K, **Westfall S**, King I, Ribeiro C, Afanasiev E, Milnerwood A, Desjardin M, Thanabalasuriar A, Stratton J, Gruenheid S. (2025) LRRK2 G2019S mutation incited icnreased cell-intrinsic neutrophil effector functions and intestinal inflammation in a model of infectious colitis. Nat Parkinson Dis. Submission ID: fe9a3944-045a-4b3d-aec9-c68ee91fcad8
